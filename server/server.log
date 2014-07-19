@@ -303,3 +303,238 @@
 2014-07-19 11:57:25 [INFO] Saving chunks for level 'world'/Overworld
 2014-07-19 11:57:26 [INFO] Saving chunks for level 'world_nether'/Nether
 2014-07-19 11:57:26 [INFO] Saving chunks for level 'world_the_end'/The End
+2014-07-19 11:58:24 [INFO] Starting minecraft server version 1.6.4
+2014-07-19 11:58:24 [INFO] Loading properties
+2014-07-19 11:58:24 [INFO] Default game type: SURVIVAL
+2014-07-19 11:58:24 [INFO] Generating keypair
+2014-07-19 11:58:25 [INFO] Starting Minecraft server on *:25565
+2014-07-19 11:58:25 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-07-19 11:58:25 [INFO] [PirateCannon] Loading PirateCannon v1.0.5
+2014-07-19 11:58:25 [INFO] [TSG_WitherWater] Loading TSG_WitherWater v1
+2014-07-19 11:58:25 [INFO] [CompassTracker] Loading CompassTracker v1.2
+2014-07-19 11:58:25 [INFO] [iSail] Loading iSail v0.956
+2014-07-19 11:58:25 [INFO] Preparing level "world"
+2014-07-19 11:58:25 [WARNING] ----- Bukkit Auto Updater -----
+2014-07-19 11:58:25 [WARNING] Your version of CraftBukkit is out of date. Version 1.6.4-R2.0 (build #2918) was released on Wed Oct 30 23:39:40 GMT 2013.
+2014-07-19 11:58:25 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/02389_1.6.4-R2.0/
+2014-07-19 11:58:25 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/02389_1.6.4-R2.0/craftbukkit.jar
+2014-07-19 11:58:25 [WARNING] ----- ------------------- -----
+2014-07-19 11:58:25 [INFO] Preparing start region for level 0 (Seed: -7114891627215597658)
+2014-07-19 11:58:26 [INFO] Preparing start region for level 1 (Seed: -7114891627215597658)
+2014-07-19 11:58:26 [INFO] Preparing start region for level 2 (Seed: -7114891627215597658)
+2014-07-19 11:58:27 [INFO] [PirateCannon] Enabling PirateCannon v1.0.5
+2014-07-19 11:58:27 [INFO] [PirateCannon] PirateCannons Enabled!
+2014-07-19 11:58:27 [INFO] [TSG_WitherWater] Enabling TSG_WitherWater v1
+2014-07-19 11:58:27 [INFO] Loading YAML
+2014-07-19 11:58:27 [INFO] [CompassTracker] Enabling CompassTracker v1.2
+2014-07-19 11:58:27 [INFO] [CompassTracker] Enabled!
+2014-07-19 11:58:27 [INFO] [iSail] Enabling iSail v0.956
+2014-07-19 11:58:27 [INFO] [iSail] Cannons plugin not found, using default paramethers
+2014-07-19 11:58:27 [INFO] [iSail] loading configuration file config.yml
+2014-07-19 11:58:27 [INFO] [iSail] Successfully enabled!
+2014-07-19 11:58:27 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-07-19 11:58:27 [INFO] Done (1.656s)! For help, type "help" or "?"
+2014-07-19 11:58:30 [INFO] ionsto[/86.27.183.106:54903] logged in with entity id 347 at ([world] -118.6760120988311, 66.0, 255.42721117163262)
+2014-07-19 11:58:33 [INFO] shadowtogepi[/94.6.44.221:49421] logged in with entity id 651 at ([world] -186.47280761932132, 67.7000000178814, 174.19039336606045)
+2014-07-19 11:58:35 [INFO] mergedPLASMA32[/86.27.183.106:51115] logged in with entity id 963 at ([world] -141.18037068628973, 69.0, 190.94991615958878)
+2014-07-19 11:58:45 [INFO] ionsto withered away
+2014-07-19 11:58:50 [INFO] ionsto issued server command: /op mergedPLASMA32
+2014-07-19 11:58:50 [INFO] ionsto: Opped mergedPLASMA32[m
+2014-07-19 11:58:51 [INFO] ionsto issued server command: /op shadowtogepi
+2014-07-19 11:58:51 [INFO] ionsto: Opped shadowtogepi[m
+2014-07-19 11:58:57 [INFO] mergedPLASMA32 issued server command: /give shadowtogep SADDLE
+2014-07-19 11:59:05 [INFO] mergedPLASMA32 issued server command: /give shadowtogepi SADDLE
+2014-07-19 11:59:05 [INFO] mergedPLASMA32: Gave shadowtogepi some 329 (SADDLE)[m
+2014-07-19 11:59:38 [INFO] shadowtogepi issued server command: /gamemdoe c
+2014-07-19 11:59:42 [INFO] shadowtogepi issued server command: /gamemode c
+2014-07-19 11:59:42 [INFO] shadowtogepi: Set own game mode to CREATIVE mode[m
+2014-07-19 12:00:14 [INFO] shadowtogepi issued server command: /gamemode s
+2014-07-19 12:00:14 [INFO] shadowtogepi: Set own game mode to SURVIVAL mode[m
+2014-07-19 12:00:43 [INFO] mergedPLASMA32 was slain by Zombie
+2014-07-19 12:00:43 [INFO] CONSOLE: Stopping the server..[m
+2014-07-19 12:00:43 [INFO] Stopping server
+2014-07-19 12:00:43 [INFO] [iSail] Disabling iSail v0.956
+2014-07-19 12:00:43 [INFO] [iSail] was disabled!
+2014-07-19 12:00:43 [INFO] [CompassTracker] Disabling CompassTracker v1.2
+2014-07-19 12:00:43 [INFO] [CompassTracker] Disabled!
+2014-07-19 12:00:43 [INFO] [TSG_WitherWater] Disabling TSG_WitherWater v1
+2014-07-19 12:00:43 [INFO] Saving YAML
+2014-07-19 12:00:43 [INFO] [PirateCannon] Disabling PirateCannon v1.0.5
+2014-07-19 12:00:43 [INFO] [PirateCannon] PirateCannons Disabled!
+2014-07-19 12:00:43 [WARNING] DSCT: socket closed
+2014-07-19 12:00:43 [INFO] Saving players
+2014-07-19 12:00:43 [INFO] Closing listening thread
+2014-07-19 12:00:43 [INFO] §eshadowtogepi left the game.
+2014-07-19 12:00:43 [INFO] §emergedPLASMA32 left the game.
+2014-07-19 12:00:43 [INFO] §eionsto left the game.
+2014-07-19 12:00:43 [INFO] Saving worlds
+2014-07-19 12:00:43 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-19 12:00:44 [INFO] Saving chunks for level 'world_nether'/Nether
+2014-07-19 12:00:44 [INFO] Saving chunks for level 'world_the_end'/The End
+2014-07-19 12:01:06 [INFO] Starting minecraft server version 1.6.4
+2014-07-19 12:01:06 [INFO] Loading properties
+2014-07-19 12:01:06 [INFO] Default game type: SURVIVAL
+2014-07-19 12:01:06 [INFO] Generating keypair
+2014-07-19 12:01:06 [INFO] Starting Minecraft server on *:25565
+2014-07-19 12:01:07 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-07-19 12:01:07 [INFO] [PirateCannon] Loading PirateCannon v1.0.5
+2014-07-19 12:01:07 [INFO] [TSG_WitherWater] Loading TSG_WitherWater v1
+2014-07-19 12:01:07 [INFO] [CompassTracker] Loading CompassTracker v1.2
+2014-07-19 12:01:07 [INFO] [iSail] Loading iSail v0.956
+2014-07-19 12:01:07 [INFO] Preparing level "world"
+2014-07-19 12:01:07 [WARNING] ----- Bukkit Auto Updater -----
+2014-07-19 12:01:07 [WARNING] Your version of CraftBukkit is out of date. Version 1.6.4-R2.0 (build #2918) was released on Wed Oct 30 23:39:40 GMT 2013.
+2014-07-19 12:01:07 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/02389_1.6.4-R2.0/
+2014-07-19 12:01:07 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/02389_1.6.4-R2.0/craftbukkit.jar
+2014-07-19 12:01:07 [WARNING] ----- ------------------- -----
+2014-07-19 12:01:07 [INFO] Preparing start region for level 0 (Seed: -7114891627215597658)
+2014-07-19 12:01:08 [INFO] Preparing start region for level 1 (Seed: -7114891627215597658)
+2014-07-19 12:01:08 [INFO] Preparing start region for level 2 (Seed: -7114891627215597658)
+2014-07-19 12:01:08 [INFO] [PirateCannon] Enabling PirateCannon v1.0.5
+2014-07-19 12:01:08 [INFO] [PirateCannon] PirateCannons Enabled!
+2014-07-19 12:01:08 [INFO] [TSG_WitherWater] Enabling TSG_WitherWater v1
+2014-07-19 12:01:08 [INFO] Loading YAML
+2014-07-19 12:01:08 [INFO] [CompassTracker] Enabling CompassTracker v1.2
+2014-07-19 12:01:08 [INFO] [CompassTracker] Enabled!
+2014-07-19 12:01:08 [INFO] [iSail] Enabling iSail v0.956
+2014-07-19 12:01:08 [INFO] [iSail] Cannons plugin not found, using default paramethers
+2014-07-19 12:01:08 [INFO] [iSail] loading configuration file config.yml
+2014-07-19 12:01:08 [INFO] [iSail] Successfully enabled!
+2014-07-19 12:01:08 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-07-19 12:01:08 [INFO] Done (1.642s)! For help, type "help" or "?"
+2014-07-19 12:01:12 [INFO] ionsto[/86.27.183.106:54946] logged in with entity id 320 at ([world] -116.36639384548414, 64.0, 268.7860611217099)
+2014-07-19 12:01:13 [INFO] Remove fromnull
+2014-07-19 12:01:13 [INFO] Remove fromnull
+2014-07-19 12:01:13 [INFO] Remove fromnull
+2014-07-19 12:01:13 [INFO] Remove fromnull
+2014-07-19 12:01:13 [INFO] Remove fromnull
+2014-07-19 12:01:13 [INFO] Remove fromnull
+2014-07-19 12:01:13 [INFO] Remove fromnull
+2014-07-19 12:01:13 [INFO] Remove fromnull
+2014-07-19 12:01:13 [INFO] Remove fromnull
+2014-07-19 12:01:13 [INFO] Remove fromnull
+2014-07-19 12:01:13 [INFO] Remove fromnull
+2014-07-19 12:01:13 [INFO] Remove fromnull
+2014-07-19 12:01:13 [INFO] Remove fromnull
+2014-07-19 12:01:13 [INFO] Remove fromnull
+2014-07-19 12:01:13 [INFO] Remove fromnull
+2014-07-19 12:01:13 [INFO] Remove fromnull
+2014-07-19 12:01:13 [INFO] Remove fromnull
+2014-07-19 12:01:13 [INFO] Remove fromnull
+2014-07-19 12:01:13 [INFO] Remove fromnull
+2014-07-19 12:01:13 [INFO] Remove fromnull
+2014-07-19 12:01:14 [INFO] Remove fromnull
+2014-07-19 12:01:14 [INFO] Remove fromnull
+2014-07-19 12:01:14 [INFO] Remove fromnull
+2014-07-19 12:01:14 [INFO] Remove fromnull
+2014-07-19 12:01:14 [INFO] Remove fromnull
+2014-07-19 12:01:14 [INFO] Remove fromnull
+2014-07-19 12:01:14 [INFO] Remove fromnull
+2014-07-19 12:01:14 [INFO] Remove fromnull
+2014-07-19 12:01:14 [INFO] Remove fromnull
+2014-07-19 12:01:14 [INFO] Remove fromnull
+2014-07-19 12:01:14 [INFO] Remove fromnull
+2014-07-19 12:01:14 [INFO] Remove fromnull
+2014-07-19 12:01:15 [INFO] Remove fromnull
+2014-07-19 12:01:15 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:16 [INFO] Remove fromnull
+2014-07-19 12:01:17 [INFO] Remove fromnull
+2014-07-19 12:01:17 [INFO] Remove fromnull
+2014-07-19 12:01:17 [INFO] Remove fromnull
+2014-07-19 12:01:17 [INFO] Remove fromnull
+2014-07-19 12:01:17 [INFO] Remove fromnull
+2014-07-19 12:01:17 [INFO] Remove fromnull
+2014-07-19 12:01:17 [INFO] Remove fromnull
+2014-07-19 12:01:17 [INFO] Remove fromnull
+2014-07-19 12:01:17 [INFO] Remove fromnull
+2014-07-19 12:01:17 [INFO] Remove fromnull
+2014-07-19 12:01:17 [INFO] Remove fromnull
+2014-07-19 12:01:17 [INFO] Remove fromnull
+2014-07-19 12:01:17 [INFO] Remove fromnull
+2014-07-19 12:01:17 [INFO] Remove fromnull
+2014-07-19 12:01:17 [INFO] Remove fromnull
+2014-07-19 12:01:17 [INFO] Remove fromnull
+2014-07-19 12:01:17 [INFO] Remove fromnull
+2014-07-19 12:01:17 [INFO] Remove fromnull
+2014-07-19 12:01:17 [INFO] Remove fromnull
+2014-07-19 12:01:17 [INFO] Remove fromnull
+2014-07-19 12:01:18 [INFO] Remove fromnull
+2014-07-19 12:01:18 [INFO] Remove fromnull
+2014-07-19 12:01:18 [INFO] Remove fromnull
+2014-07-19 12:01:18 [INFO] Remove fromnull
+2014-07-19 12:01:19 [INFO] Remove fromnull
+2014-07-19 12:01:19 [INFO] Remove fromnull
+2014-07-19 12:01:19 [INFO] Remove fromnull
+2014-07-19 12:01:19 [INFO] Remove fromnull
+2014-07-19 12:01:19 [INFO] Remove fromnull
+2014-07-19 12:01:19 [INFO] Remove fromnull
+2014-07-19 12:01:19 [INFO] Remove fromnull
+2014-07-19 12:01:19 [INFO] Remove fromnull
+2014-07-19 12:01:19 [INFO] Remove fromnull
+2014-07-19 12:01:19 [INFO] Remove fromnull
+2014-07-19 12:01:19 [INFO] Remove fromnull
+2014-07-19 12:01:19 [INFO] Remove fromnull
+2014-07-19 12:01:19 [INFO] Remove fromnull
+2014-07-19 12:01:19 [INFO] Remove fromnull
+2014-07-19 12:01:19 [INFO] Remove fromnull
+2014-07-19 12:01:19 [INFO] Remove fromnull
+2014-07-19 12:01:19 [INFO] Remove fromnull
+2014-07-19 12:01:20 [INFO] Remove fromnull
+2014-07-19 12:01:20 [INFO] Remove fromnull
+2014-07-19 12:01:20 [INFO] Remove fromnull
+2014-07-19 12:01:20 [INFO] Remove fromnull
+2014-07-19 12:01:20 [INFO] Remove fromnull
+2014-07-19 12:01:20 [INFO] Remove fromnull
+2014-07-19 12:01:20 [INFO] Remove fromnull
+2014-07-19 12:01:20 [INFO] Remove fromnull
+2014-07-19 12:01:20 [INFO] Remove fromnull
+2014-07-19 12:01:20 [INFO] Remove fromnull
+2014-07-19 12:01:20 [INFO] Remove fromnull
+2014-07-19 12:01:20 [INFO] Remove fromnull
+2014-07-19 12:01:20 [INFO] Remove fromnull
+2014-07-19 12:01:20 [INFO] Remove fromnull
+2014-07-19 12:01:20 [INFO] Remove fromnull
+2014-07-19 12:01:28 [INFO] ionsto issued server command: /stop
+2014-07-19 12:01:28 [INFO] ionsto: Stopping the server..[m
+2014-07-19 12:01:29 [INFO] Connection reset
+2014-07-19 12:01:29 [INFO] /94.6.44.221:49440 lost connection
+2014-07-19 12:01:29 [INFO] Stopping server
+2014-07-19 12:01:29 [INFO] [iSail] Disabling iSail v0.956
+2014-07-19 12:01:29 [INFO] [iSail] was disabled!
+2014-07-19 12:01:29 [INFO] [CompassTracker] Disabling CompassTracker v1.2
+2014-07-19 12:01:29 [INFO] [CompassTracker] Disabled!
+2014-07-19 12:01:29 [INFO] [TSG_WitherWater] Disabling TSG_WitherWater v1
+2014-07-19 12:01:29 [INFO] Saving YAML
+2014-07-19 12:01:29 [INFO] [PirateCannon] Disabling PirateCannon v1.0.5
+2014-07-19 12:01:29 [INFO] [PirateCannon] PirateCannons Disabled!
+2014-07-19 12:01:29 [INFO] Saving players
+2014-07-19 12:01:29 [WARNING] DSCT: socket closed
+2014-07-19 12:01:29 [INFO] Closing listening thread
+2014-07-19 12:01:29 [INFO] §eionsto left the game.
+2014-07-19 12:01:29 [INFO] Saving worlds
+2014-07-19 12:01:29 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-19 12:01:31 [INFO] Saving chunks for level 'world_nether'/Nether
+2014-07-19 12:01:31 [INFO] Saving chunks for level 'world_the_end'/The End
+2014-07-19 12:01:31 [INFO] Stopping server

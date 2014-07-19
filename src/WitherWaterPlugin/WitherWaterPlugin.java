@@ -58,18 +58,11 @@ public class WitherWaterPlugin extends JavaPlugin implements Listener{
         Material mat = player.getLocation().getBlock().getType();
         if(mat == Material.WATER || mat == Material.STATIONARY_WATER)
         {
-        	if(!player.getActivePotionEffects().contains(PotionEffectType.WITHER))
-        	{
-        		player.addPotionEffect(new PotionEffect(PotionEffectType.WITHER, 999 ,(int) Power));
-        	}
+    		player.addPotionEffect(new PotionEffect(PotionEffectType.WITHER, 999 ,(int) Power));
         }
         else
         {
-        	if(player.getActivePotionEffects().contains(PotionEffectType.WITHER))
-        	{
-        		player.removePotionEffect(PotionEffectType.WITHER);
-        		System.out.println("Remove from" + player.getCustomName());
-        	}
+    		player.removePotionEffect(PotionEffectType.WITHER);
         }
     }
     void SaveYAML(){
