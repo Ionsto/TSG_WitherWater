@@ -8,13 +8,11 @@
 #used permission system:
 #op: only OP and permitted players can use cannons. uses permission cannon.use
 #all: everyone can use cannons.
-permissions: op
+permissions: all
 
 #cannon material ids
 cannontypes:
-  - 4
-  - 42
-  - 49
+  - 17
 
 #minimum cannon size
 #must be bigger than 0
@@ -36,7 +34,7 @@ tool:
 ammo:
 #item ids which are consumed by using a cannon
   types:
-    - 46
+    - 289
 #number of items which are consumed
 #first number here is the amount of the first ammo item id, second here belongs to the second item id, ...
   number:
@@ -47,7 +45,7 @@ ammo:
 #edit the explosion on impact
 explosion:
 #power / radius of the explosion.
-  power: 2
+  power: 3
 #sets wether the explosion is able to ignite blocks or not.
   setfire: true
 #set weather the explosion destroys blocks or not
@@ -62,7 +60,7 @@ explosion:
   playerdamagerange: 2
 
 #changes the density of the smoke effect when using a cannon. do not enter high values!
-smokeeffect: 2
+smokeeffect: 4
 
 #binds cooldown-times to players, so one player can ony fire one cannon in this time
 useplayercooldown: false
@@ -98,4 +96,4 @@ projectile: snowball
 #makes cannons rotatable (90°)
 allowrotation: true
 #chooses the block which rotates a cannon
-rotationblock: 76
+rotationblock: 41

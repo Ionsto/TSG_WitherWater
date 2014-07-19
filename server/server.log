@@ -538,3 +538,726 @@
 2014-07-19 12:01:31 [INFO] Saving chunks for level 'world_nether'/Nether
 2014-07-19 12:01:31 [INFO] Saving chunks for level 'world_the_end'/The End
 2014-07-19 12:01:31 [INFO] Stopping server
+2014-07-19 12:02:34 [INFO] Starting minecraft server version 1.6.4
+2014-07-19 12:02:34 [INFO] Loading properties
+2014-07-19 12:02:34 [INFO] Default game type: SURVIVAL
+2014-07-19 12:02:34 [INFO] Generating keypair
+2014-07-19 12:02:34 [INFO] Starting Minecraft server on *:25565
+2014-07-19 12:02:35 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-07-19 12:02:35 [INFO] [PirateCannon] Loading PirateCannon v1.0.5
+2014-07-19 12:02:35 [INFO] [TSG_WitherWater] Loading TSG_WitherWater v1
+2014-07-19 12:02:35 [INFO] [CompassTracker] Loading CompassTracker v1.2
+2014-07-19 12:02:35 [INFO] [iSail] Loading iSail v0.956
+2014-07-19 12:02:35 [INFO] Preparing level "world"
+2014-07-19 12:02:35 [WARNING] ----- Bukkit Auto Updater -----
+2014-07-19 12:02:35 [WARNING] Your version of CraftBukkit is out of date. Version 1.6.4-R2.0 (build #2918) was released on Wed Oct 30 23:39:40 GMT 2013.
+2014-07-19 12:02:35 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/02389_1.6.4-R2.0/
+2014-07-19 12:02:35 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/02389_1.6.4-R2.0/craftbukkit.jar
+2014-07-19 12:02:35 [WARNING] ----- ------------------- -----
+2014-07-19 12:02:35 [INFO] Preparing start region for level 0 (Seed: -7114891627215597658)
+2014-07-19 12:02:36 [INFO] Preparing start region for level 1 (Seed: -7114891627215597658)
+2014-07-19 12:02:36 [INFO] Preparing start region for level 2 (Seed: -7114891627215597658)
+2014-07-19 12:02:36 [INFO] [PirateCannon] Enabling PirateCannon v1.0.5
+2014-07-19 12:02:36 [INFO] [PirateCannon] PirateCannons Enabled!
+2014-07-19 12:02:36 [INFO] [TSG_WitherWater] Enabling TSG_WitherWater v1
+2014-07-19 12:02:36 [INFO] Loading YAML
+2014-07-19 12:02:36 [INFO] [CompassTracker] Enabling CompassTracker v1.2
+2014-07-19 12:02:36 [INFO] [CompassTracker] Enabled!
+2014-07-19 12:02:36 [INFO] [iSail] Enabling iSail v0.956
+2014-07-19 12:02:36 [INFO] [iSail] Cannons plugin not found, using default paramethers
+2014-07-19 12:02:36 [INFO] [iSail] loading configuration file config.yml
+2014-07-19 12:02:36 [INFO] [iSail] Successfully enabled!
+2014-07-19 12:02:36 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-07-19 12:02:37 [INFO] Done (1.804s)! For help, type "help" or "?"
+2014-07-19 12:02:40 [INFO] ionsto [/86.27.183.106:54989] lost connection
+2014-07-19 12:02:43 [INFO] ionsto[/86.27.183.106:54994] logged in with entity id 277 at ([world] -104.4956733438788, 60.0, 277.3270229575947)
+2014-07-19 12:02:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-07-19 12:02:56 [INFO] mergedPLASMA32[/86.27.183.106:51290] logged in with entity id 298 at ([world] -135.98345088785197, 69.0, 203.5440555660269)
+2014-07-19 12:03:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-07-19 12:03:18 [INFO] shadowtogepi[/94.6.44.221:49456] logged in with entity id 499 at ([world] -126.18447886165997, 71.7000000178814, 203.55660157721042)
+2014-07-19 12:03:25 [INFO] ionsto was slain by mergedPLASMA32
+2014-07-19 12:03:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-07-19 12:03:43 [INFO] mergedPLASMA32 was slain by ionsto
+2014-07-19 12:03:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-07-19 12:03:59 [INFO] mergedPLASMA32 was slain by shadowtogepi
+2014-07-19 12:04:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-07-19 12:04:09 [INFO] ionsto was slain by shadowtogepi
+2014-07-19 12:04:11 [INFO] mergedPLASMA32 was slain by shadowtogepi
+2014-07-19 12:04:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-07-19 12:04:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-07-19 12:04:40 [INFO] shadowtogepi issued server command: /butcher all
+2014-07-19 12:04:46 [INFO] shadowtogepi issued server command: /gamemode c
+2014-07-19 12:04:46 [INFO] shadowtogepi: Set own game mode to CREATIVE mode[m
+2014-07-19 12:06:07 [INFO] ionsto issued server command: /difficulty peaceful
+2014-07-19 12:06:07 [INFO] ionsto: Set difficulty to PEACEFUL[m
+2014-07-19 12:06:11 [INFO] ionsto issued server command: /time set day
+2014-07-19 12:06:11 [INFO] ionsto: Set time to 0[m
+2014-07-19 12:07:00 [INFO] <mergedPLASMA32> hows the horse tim![m
+2014-07-19 12:07:06 [INFO] <ionsto> tp to me[m
+2014-07-19 12:07:16 [INFO] mergedPLASMA32 issued server command: /tp mergedPLASMA32 ionsto
+2014-07-19 12:07:16 [INFO] mergedPLASMA32: Teleported mergedPLASMA32 to ionsto[m
+2014-07-19 12:07:25 [INFO] mergedPLASMA32 issued server command: /toggledownfall
+2014-07-19 12:07:25 [INFO] mergedPLASMA32: Toggling downfall off for world 'world'[m
+2014-07-19 12:08:06 [INFO] ionsto issued server command: /gamemdoe c
+2014-07-19 12:08:09 [INFO] ionsto issued server command: /gamemode c
+2014-07-19 12:08:09 [INFO] ionsto: Set own game mode to CREATIVE mode[m
+2014-07-19 12:09:26 [INFO] [iSail] player ionsto was created a ship LongBoat with size 61 blocks
+2014-07-19 12:09:30 [INFO] mergedPLASMA32 issued server command: /gamemode c
+2014-07-19 12:09:30 [INFO] mergedPLASMA32: Set own game mode to CREATIVE mode[m
+2014-07-19 12:09:46 [INFO] shadowtogepi issued server command: /tp ionsto
+2014-07-19 12:09:46 [INFO] shadowtogepi: Teleported shadowtogepi to ionsto[m
+2014-07-19 12:10:00 [INFO] <shadowtogepi> Rip[m
+2014-07-19 12:10:26 [INFO] shadowtogepi issued server command: /gamemode s
+2014-07-19 12:10:26 [INFO] shadowtogepi: Set own game mode to SURVIVAL mode[m
+2014-07-19 12:10:46 [INFO] Ship LongBoat has been destroyed. Reason: This ship was drowned
+2014-07-19 12:10:50 [INFO] shadowtogepi issued server command: /gamemode s
+2014-07-19 12:10:52 [INFO] shadowtogepi issued server command: /gamemode c
+2014-07-19 12:10:52 [INFO] shadowtogepi: Set own game mode to CREATIVE mode[m
+2014-07-19 12:11:05 [INFO] ionsto issued server command: /gamemdoe s me
+2014-07-19 12:11:07 [INFO] ionsto issued server command: /gamemdoe s me
+2014-07-19 12:11:16 [INFO] ionsto issued server command: /gamemode survival mergedPLASMA32
+2014-07-19 12:11:16 [INFO] ionsto: Set mergedPLASMA32's game mode to SURVIVAL mode[m
+2014-07-19 12:11:20 [INFO] mergedPLASMA32 issued server command: /gamemode c
+2014-07-19 12:11:20 [INFO] mergedPLASMA32: Set own game mode to CREATIVE mode[m
+2014-07-19 12:11:23 [INFO] ionsto issued server command: /gamemode survival mergedPLASMA32
+2014-07-19 12:11:23 [INFO] ionsto: Set mergedPLASMA32's game mode to SURVIVAL mode[m
+2014-07-19 12:11:27 [INFO] mergedPLASMA32 issued server command: /gamemode c
+2014-07-19 12:11:27 [INFO] mergedPLASMA32: Set own game mode to CREATIVE mode[m
+2014-07-19 12:11:44 [INFO] [iSail] player ionsto was created a ship Wave_breaker with size 32 blocks
+2014-07-19 12:13:14 [INFO] Ship Wave_breaker has been destroyed. Reason: This ship was drowned
+2014-07-19 12:13:58 [INFO] [iSail] player shadowtogepi was created a ship badship with size 37 blocks
+2014-07-19 12:14:20 [INFO] arsenalgiraffe[/94.6.44.221:1531] logged in with entity id 196446 at ([world] -118.5, 65.0, 261.5)
+2014-07-19 12:14:44 [INFO] arsenalgiraffe issued server command: /gamemode c
+2014-07-19 12:14:48 [INFO] ionsto issued server command: /op arsenalgiraffe
+2014-07-19 12:14:48 [INFO] ionsto: Opped arsenalgiraffe[m
+2014-07-19 12:14:53 [INFO] arsenalgiraffe issued server command: /gamemode c
+2014-07-19 12:14:53 [INFO] arsenalgiraffe: Set own game mode to CREATIVE mode[m
+2014-07-19 12:15:28 [INFO] Ship badship has been destroyed. Reason: This ship was drowned
+2014-07-19 12:16:27 [INFO] [iSail] player ionsto was created a ship Dab_Lander with size 52 blocks
+2014-07-19 12:17:14 [INFO] [iSail] player shadowtogepi was created a ship Harry Potter with size 19 blocks
+2014-07-19 12:17:57 [INFO] Ship Dab_Lander has been destroyed. Reason: This ship was drowned
+2014-07-19 12:17:57 [INFO] <ionsto> GG[m
+2014-07-19 12:18:13 [INFO] <shadowtogepi> How does ship werk[m
+2014-07-19 12:19:04 [INFO] Ship Harry Potter has been destroyed. Reason: This ship was drowned
+2014-07-19 12:19:05 [INFO] [iSail] player shadowtogepi was created a ship tiny with size 6 blocks
+2014-07-19 12:19:14 [INFO] [iSail] player ionsto was created a ship Marlin_Hunter with size 39 blocks
+2014-07-19 12:19:15 [INFO] Ship tiny has been destroyed. Reason: Damaged
+2014-07-19 12:19:22 [INFO] <shadowtogepi> Damn[m
+2014-07-19 12:20:06 [INFO] [iSail] player mergedPLASMA32 was created a ship The good ship.. with size 53 blocks
+2014-07-19 12:20:24 [INFO] <mergedPLASMA32> just testin[m
+2014-07-19 12:20:39 [INFO] <shadowtogepi> it was for a wheel[m
+2014-07-19 12:20:41 [INFO] <mergedPLASMA32> really?[m
+2014-07-19 12:20:46 [INFO] <mergedPLASMA32> why do you sink[m
+2014-07-19 12:21:26 [INFO] [iSail] Error occupied while disabling ship! Check your java!
+2014-07-19 12:21:26 [INFO] Ship The good ship.. has been destroyed. Reason: This ship was drowned
+2014-07-19 12:21:42 [INFO] [iSail] player arsenalgiraffe was created a ship Apple's bain with size 88 blocks
+2014-07-19 12:21:55 [INFO] ionsto issued server command: /gamemode s
+2014-07-19 12:21:55 [INFO] ionsto: Set own game mode to SURVIVAL mode[m
+2014-07-19 12:21:59 [INFO] ionsto issued server command: /gamemode c
+2014-07-19 12:21:59 [INFO] ionsto: Set own game mode to CREATIVE mode[m
+2014-07-19 12:23:07 [INFO] [iSail] player mergedPLASMA32 was created a ship Blob with size 73 blocks
+2014-07-19 12:23:12 [INFO] <mergedPLASMA32> bananaphone[m
+2014-07-19 12:23:15 [INFO] <mergedPLASMA32> tnt ship![m
+2014-07-19 12:23:22 [INFO] [iSail] Error occupied while disabling ship! Check your java!
+2014-07-19 12:23:22 [INFO] Ship Apple's bain has been destroyed. Reason: This ship was drowned
+2014-07-19 12:23:40 [INFO] ionsto issued server command: /gamemode s
+2014-07-19 12:23:40 [INFO] ionsto: Set own game mode to SURVIVAL mode[m
+2014-07-19 12:23:46 [INFO] ionsto issued server command: /gamemode c
+2014-07-19 12:23:46 [INFO] ionsto: Set own game mode to CREATIVE mode[m
+2014-07-19 12:23:51 [INFO] arsenalgiraffe issued server command: //wand
+2014-07-19 12:23:57 [INFO] ionsto issued server command: /gamemode s
+2014-07-19 12:23:57 [INFO] ionsto: Set own game mode to SURVIVAL mode[m
+2014-07-19 12:24:18 [INFO] ionsto issued server command: /gamemode c
+2014-07-19 12:24:18 [INFO] ionsto: Set own game mode to CREATIVE mode[m
+2014-07-19 12:25:48 [INFO] <shadowtogepi> Do we have worldedit[m
+2014-07-19 12:25:55 [INFO] <ionsto> no[m
+2014-07-19 12:25:57 [INFO] <mergedPLASMA32> sure[m
+2014-07-19 12:25:59 [INFO] <shadowtogepi> Damn[m
+2014-07-19 12:26:00 [INFO] mergedPLASMA32 issued server command: //pos1
+2014-07-19 12:26:07 [WARNING] Player mergedPLASMA32 just tried to change non-editable sign
+2014-07-19 12:26:12 [INFO] [iSail] player ionsto was created a ship Marlin_Hunter with size 103 blocks
+2014-07-19 12:26:54 [INFO] [iSail] Error occupied while disabling ship! Check your java!
+2014-07-19 12:26:54 [INFO] Ship Marlin_Hunter has been destroyed. Reason: Damaged
+2014-07-19 12:27:32 [INFO] [iSail] Error occupied while disabling ship! Check your java!
+2014-07-19 12:27:32 [INFO] Ship Marlin_Hunter has been destroyed. Reason: This ship was drowned
+2014-07-19 12:29:34 [INFO] [iSail] player ionsto was created a ship Shrimp's_End with size 87 blocks
+2014-07-19 12:30:33 [INFO] mergedPLASMA32 issued server command: /tp mergedPLASMA32 arsenalgiraffe
+2014-07-19 12:30:33 [INFO] mergedPLASMA32: Teleported mergedPLASMA32 to arsenalgiraffe[m
+2014-07-19 12:30:38 [INFO] <mergedPLASMA32> Oh mY god[m
+2014-07-19 12:30:49 [INFO] [iSail] player mergedPLASMA32 was created a ship Spongy with size 0 blocks
+2014-07-19 12:30:59 [INFO] [iSail] Error occupied while disabling ship! Check your java!
+2014-07-19 12:30:59 [INFO] Ship Spongy has been destroyed. Reason: Damaged
+2014-07-19 12:31:07 [INFO] <shadowtogepi> Rip spongy[m
+2014-07-19 12:31:15 [INFO] <mergedPLASMA32> ths will not work[m
+2014-07-19 12:31:22 [INFO] <arsenalgiraffe> W[EHGJW{CLEHRFG[m
+2014-07-19 12:34:34 [INFO] ionsto issued server command: /clear
+2014-07-19 12:34:34 [INFO] ionsto: Cleared the inventory of ionsto, removing 148 items[m
+2014-07-19 12:34:37 [INFO] <mergedPLASMA32> world edit[m
+2014-07-19 12:35:29 [INFO] <mergedPLASMA32> world edit![m
+2014-07-19 12:35:54 [INFO] ionsto issued server command: /gamemode s
+2014-07-19 12:35:54 [INFO] ionsto: Set own game mode to SURVIVAL mode[m
+2014-07-19 12:35:58 [INFO] ionsto issued server command: /gamemode c
+2014-07-19 12:35:58 [INFO] ionsto: Set own game mode to CREATIVE mode[m
+2014-07-19 12:36:01 [INFO] <mergedPLASMA32> shrimps end?[m
+2014-07-19 12:36:05 [INFO] ionsto issued server command: /gamemode s
+2014-07-19 12:36:05 [INFO] ionsto: Set own game mode to SURVIVAL mode[m
+2014-07-19 12:36:05 [INFO] [iSail] player shadowtogepi was created a ship Please_no_sink with size 248 blocks
+2014-07-19 12:36:18 [INFO] ionsto issued server command: /stop
+2014-07-19 12:36:18 [INFO] ionsto: Stopping the server..[m
+2014-07-19 12:36:18 [INFO] Stopping server
+2014-07-19 12:36:18 [INFO] [iSail] Disabling iSail v0.956
+2014-07-19 12:36:18 [INFO] [iSail] Disabling ship Shrimp's_End
+2014-07-19 12:36:18 [INFO] [iSail] Disabling ship Spongy
+2014-07-19 12:36:18 [INFO] [iSail] Disabling ship Please_no_sink
+2014-07-19 12:36:18 [INFO] [iSail] was disabled!
+2014-07-19 12:36:18 [INFO] [CompassTracker] Disabling CompassTracker v1.2
+2014-07-19 12:36:18 [INFO] [CompassTracker] Disabled!
+2014-07-19 12:36:18 [INFO] [TSG_WitherWater] Disabling TSG_WitherWater v1
+2014-07-19 12:36:18 [INFO] Saving YAML
+2014-07-19 12:36:18 [INFO] [PirateCannon] Disabling PirateCannon v1.0.5
+2014-07-19 12:36:18 [INFO] [PirateCannon] PirateCannons Disabled!
+2014-07-19 12:36:18 [INFO] Saving players
+2014-07-19 12:36:18 [WARNING] DSCT: socket closed
+2014-07-19 12:36:18 [INFO] Closing listening thread
+2014-07-19 12:36:18 [INFO] §eshadowtogepi left the game.
+2014-07-19 12:36:18 [INFO] §eionsto left the game.
+2014-07-19 12:36:18 [INFO] §emergedPLASMA32 left the game.
+2014-07-19 12:36:18 [INFO] §earsenalgiraffe left the game.
+2014-07-19 12:36:18 [INFO] Saving worlds
+2014-07-19 12:36:18 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-19 12:36:18 [INFO] Saving chunks for level 'world_nether'/Nether
+2014-07-19 12:36:19 [INFO] Saving chunks for level 'world_the_end'/The End
+2014-07-19 12:37:16 [INFO] Starting minecraft server version 1.6.4
+2014-07-19 12:37:16 [INFO] Loading properties
+2014-07-19 12:37:16 [INFO] Default game type: SURVIVAL
+2014-07-19 12:37:16 [INFO] Generating keypair
+2014-07-19 12:37:17 [INFO] Starting Minecraft server on *:25565
+2014-07-19 12:37:17 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-07-19 12:37:17 [WARNING] ----- Bukkit Auto Updater -----
+2014-07-19 12:37:17 [WARNING] Your version of CraftBukkit is out of date. Version 1.6.4-R2.0 (build #2918) was released on Wed Oct 30 23:39:40 GMT 2013.
+2014-07-19 12:37:17 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/02389_1.6.4-R2.0/
+2014-07-19 12:37:17 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/02389_1.6.4-R2.0/craftbukkit.jar
+2014-07-19 12:37:17 [WARNING] ----- ------------------- -----
+2014-07-19 12:37:21 [INFO] [PirateCannon] Loading PirateCannon v1.0.5
+2014-07-19 12:37:21 [INFO] [TSG_WitherWater] Loading TSG_WitherWater v1
+2014-07-19 12:37:21 [INFO] [CompassTracker] Loading CompassTracker v1.2
+2014-07-19 12:37:21 [INFO] [WorldEdit] Loading WorldEdit v5.6.2
+2014-07-19 12:37:21 [INFO] [iSail] Loading iSail v0.956
+2014-07-19 12:37:21 [INFO] Preparing level "world"
+2014-07-19 12:37:21 [INFO] Preparing start region for level 0 (Seed: -7114891627215597658)
+2014-07-19 12:37:22 [INFO] Preparing start region for level 1 (Seed: -7114891627215597658)
+2014-07-19 12:37:22 [INFO] Preparing start region for level 2 (Seed: -7114891627215597658)
+2014-07-19 12:37:23 [INFO] [PirateCannon] Enabling PirateCannon v1.0.5
+2014-07-19 12:37:23 [INFO] [PirateCannon] PirateCannons Enabled!
+2014-07-19 12:37:23 [INFO] [TSG_WitherWater] Enabling TSG_WitherWater v1
+2014-07-19 12:37:23 [INFO] Loading YAML
+2014-07-19 12:37:23 [INFO] [CompassTracker] Enabling CompassTracker v1.2
+2014-07-19 12:37:23 [INFO] [CompassTracker] Enabled!
+2014-07-19 12:37:23 [INFO] [WorldEdit] Enabling WorldEdit v5.6.2
+2014-07-19 12:37:23 [INFO] [WorldEdit] Default configuration file written: config.yml
+2014-07-19 12:37:23 [INFO] WEPIF: Updated config file
+2014-07-19 12:37:23 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-07-19 12:37:23 [INFO] [iSail] Enabling iSail v0.956
+2014-07-19 12:37:23 [INFO] [iSail] Cannons plugin not found, using default paramethers
+2014-07-19 12:37:23 [INFO] [iSail] Ship Shrimp's_End was enabled!
+2014-07-19 12:37:23 [INFO] [iSail] Ship Spongy was enabled!
+2014-07-19 12:37:23 [INFO] [iSail] Ship Please_no_sink was enabled!
+2014-07-19 12:37:23 [INFO] [iSail] loading configuration file config.yml
+2014-07-19 12:37:23 [INFO] [iSail] Successfully enabled!
+2014-07-19 12:37:23 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-07-19 12:37:23 [INFO] Done (2.102s)! For help, type "help" or "?"
+2014-07-19 12:37:25 [INFO] ionsto[/86.27.183.106:55634] logged in with entity id 195 at ([world] -70.8286172443629, 65.0, 462.9383483843815)
+2014-07-19 12:37:31 [SEVERE] No TreeType mapping for TreeGenerator.TreeType.ACACIA
+2014-07-19 12:37:31 [SEVERE] No TreeType mapping for TreeGenerator.TreeType.DARK_OAK
+2014-07-19 12:37:31 [SEVERE] No TreeType mapping for TreeGenerator.TreeType.MEGA_REDWOOD
+2014-07-19 12:37:31 [SEVERE] No TreeType mapping for TreeGenerator.TreeType.TALL_BIRCH
+2014-07-19 12:37:31 [INFO] [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_164
+2014-07-19 12:37:38 [INFO] mergedPLASMA32[/86.27.183.106:51867] logged in with entity id 594 at ([world] -85.03493889764543, 61.62345253916179, 320.75862391833374)
+2014-07-19 12:37:39 [INFO] ionsto issued server command: /gamemode c
+2014-07-19 12:37:39 [INFO] ionsto: Set own game mode to CREATIVE mode[m
+2014-07-19 12:38:22 [INFO] ionsto issued server command: /gamemode s
+2014-07-19 12:38:22 [INFO] ionsto: Set own game mode to SURVIVAL mode[m
+2014-07-19 12:38:34 [INFO] arsenalgiraffe[/94.6.44.221:1622] logged in with entity id 1599 at ([world] -116.27909113316653, 63.0, 385.32013059285947)
+2014-07-19 12:38:59 [INFO] shadowtogepi[/94.6.44.221:49848] logged in with entity id 1970 at ([world] -121.16906818499218, 63.0, 434.64843970333106)
+2014-07-19 12:39:13 [INFO] <shadowtogepi> How to make mast?[m
+2014-07-19 12:39:33 [INFO] ionsto issued server command: /gamemode c
+2014-07-19 12:39:33 [INFO] ionsto: Set own game mode to CREATIVE mode[m
+2014-07-19 12:40:08 [INFO] ionsto issued server command: /gamemode s
+2014-07-19 12:40:08 [INFO] ionsto: Set own game mode to SURVIVAL mode[m
+2014-07-19 12:41:31 [INFO] ionsto issued server command: /give ionsto TNT 64
+2014-07-19 12:41:31 [INFO] ionsto: Gave ionsto some 46 (TNT)[m
+2014-07-19 12:41:36 [INFO] arsenalgiraffe issued server command: //wamd
+2014-07-19 12:41:38 [INFO] arsenalgiraffe issued server command: //wand
+2014-07-19 12:41:53 [INFO] ionsto issued server command: /gamemode c
+2014-07-19 12:41:53 [INFO] ionsto: Set own game mode to CREATIVE mode[m
+2014-07-19 12:41:58 [INFO] arsenalgiraffe issued server command: //set birch planks
+2014-07-19 12:41:59 [INFO] ionsto issued server command: /gamemode s
+2014-07-19 12:41:59 [INFO] ionsto: Set own game mode to SURVIVAL mode[m
+2014-07-19 12:42:36 [INFO] ionsto issued server command: /give ionsto FISHING_ROD
+2014-07-19 12:42:36 [INFO] ionsto: Gave ionsto some 346 (FISHING_ROD)[m
+2014-07-19 12:42:54 [INFO] arsenalgiraffe issued server command: //set 5:2
+2014-07-19 12:44:08 [INFO] <shadowtogepi> How do I make my ship move[m
+2014-07-19 12:44:48 [INFO] <ionsto> GG[m
+2014-07-19 12:45:05 [INFO] mergedPLASMA32 issued server command: //fixwater 10
+2014-07-19 12:45:07 [INFO] mergedPLASMA32 issued server command: //fixwater 10
+2014-07-19 12:45:09 [INFO] mergedPLASMA32 issued server command: //fixwater 10
+2014-07-19 12:45:15 [INFO] mergedPLASMA32 issued server command: //fixwater 115
+2014-07-19 12:45:19 [INFO] mergedPLASMA32 issued server command: //fixwater 115
+2014-07-19 12:45:21 [INFO] mergedPLASMA32 issued server command: //fixwater 115
+2014-07-19 12:45:21 [WARNING] Player shadowtogepi just tried to change non-editable sign
+2014-07-19 12:45:31 [INFO] ionsto issued server command: /give ionsto SIGN
+2014-07-19 12:45:31 [INFO] ionsto: Gave ionsto some 323 (SIGN)[m
+2014-07-19 12:45:48 [INFO] mergedPLASMA32 issued server command: /gamerule doDaylightCycle false
+2014-07-19 12:45:48 [INFO] mergedPLASMA32: Game rule doDaylightCycle has been set to: false[m
+2014-07-19 12:45:54 [INFO] mergedPLASMA32 issued server command: /time set 6000
+2014-07-19 12:45:54 [INFO] mergedPLASMA32: Set time to 6000[m
+2014-07-19 12:46:20 [INFO] mergedPLASMA32 issued server command: //replace water 89
+2014-07-19 12:46:41 [INFO] mergedPLASMA32 issued server command: //replace sand,clay,dirt 0
+2014-07-19 12:46:47 [INFO] mergedPLASMA32 issued server command: //replace sand,clay,dirt water
+2014-07-19 12:46:56 [INFO] mergedPLASMA32 issued server command: //replace 89 water
+2014-07-19 12:47:05 [INFO] mergedPLASMA32 issued server command: //replace 1 water
+2014-07-19 12:47:13 [INFO] mergedPLASMA32 issued server command: //replace gravel water
+2014-07-19 12:47:25 [INFO] ionsto issued server command: /give ionsto SIGN
+2014-07-19 12:47:25 [INFO] ionsto: Gave ionsto some 323 (SIGN)[m
+2014-07-19 12:47:40 [INFO] mergedPLASMA32 issued server command: //replace sand,clay,dirt water
+2014-07-19 12:47:43 [INFO] ionsto issued server command: /give ionsto SIGN
+2014-07-19 12:47:43 [INFO] ionsto: Gave ionsto some 323 (SIGN)[m
+2014-07-19 12:47:43 [INFO] mergedPLASMA32 issued server command: //replace gravel water
+2014-07-19 12:47:46 [INFO] mergedPLASMA32 issued server command: //replace 1 water
+2014-07-19 12:48:04 [INFO] mergedPLASMA32 issued server command: //replace sand,clay,dirt,gravel,stone water
+2014-07-19 12:48:11 [INFO] mergedPLASMA32 issued server command: //replace sand,clay,dirt,gravel,stone water
+2014-07-19 12:48:20 [INFO] mergedPLASMA32 issued server command: //replace sand,clay,dirt,gravel,stone water
+2014-07-19 12:48:33 [INFO] arsenalgiraffe issued server command: //clear
+2014-07-19 12:48:37 [INFO] mergedPLASMA32 issued server command: //pos1
+2014-07-19 12:48:38 [INFO] mergedPLASMA32 issued server command: //replace sand,clay,dirt,gravel,stone water
+2014-07-19 12:48:40 [INFO] arsenalgiraffe issued server command: //set air
+2014-07-19 12:48:57 [INFO] arsenalgiraffe issued server command: /set air
+2014-07-19 12:49:01 [INFO] arsenalgiraffe issued server command: //set air
+2014-07-19 12:49:16 [INFO] arsenalgiraffe issued server command: //set air
+2014-07-19 12:49:24 [INFO] ionsto issued server command: /give ionsto 4
+2014-07-19 12:49:24 [INFO] ionsto: Gave ionsto some 4 (COBBLESTONE)[m
+2014-07-19 12:49:30 [INFO] mergedPLASMA32 issued server command: //replace sand,clay,dirt,gravel,stone water
+2014-07-19 12:49:43 [INFO] mergedPLASMA32 issued server command: //pos 1
+2014-07-19 12:49:45 [INFO] mergedPLASMA32 issued server command: //replace sand,clay,dirt,gravel,stone water
+2014-07-19 12:49:58 [INFO] [iSail] Error occupied while disabling ship! Check your java!
+2014-07-19 12:49:58 [INFO] [iSail] Double error!
+2014-07-19 12:49:58 [INFO] [iSail] Triple error!
+2014-07-19 12:49:58 [INFO] Ship Spongy has been destroyed. Reason: Damaged
+2014-07-19 12:50:04 [INFO] mergedPLASMA32 issued server command: //replace sand,clay,dirt,gravel,stone water
+2014-07-19 12:50:14 [INFO] mergedPLASMA32 issued server command: //replace sand,clay,dirt,gravel,stone water
+2014-07-19 12:50:24 [INFO] mergedPLASMA32 issued server command: //replace grass water
+2014-07-19 12:50:31 [INFO] ionsto issued server command: /gamemode c
+2014-07-19 12:50:31 [INFO] ionsto: Set own game mode to CREATIVE mode[m
+2014-07-19 12:50:34 [INFO] mergedPLASMA32 issued server command: //replace lilypad water
+2014-07-19 12:50:37 [INFO] ionsto issued server command: /tp shadowtogepi
+2014-07-19 12:50:37 [INFO] ionsto: Teleported ionsto to shadowtogepi[m
+2014-07-19 12:50:42 [INFO] mergedPLASMA32 issued server command: //replace lily_pad water
+2014-07-19 12:51:34 [INFO] mergedPLASMA32 issued server command: //set 0
+2014-07-19 12:51:37 [INFO] ionsto issued server command: /gamemode s
+2014-07-19 12:51:37 [INFO] ionsto: Set own game mode to SURVIVAL mode[m
+2014-07-19 12:51:46 [INFO] ionsto issued server command: /gamemode c
+2014-07-19 12:51:46 [INFO] ionsto: Set own game mode to CREATIVE mode[m
+2014-07-19 12:53:12 [INFO] shadowtogepi issued server command: /gamemode s
+2014-07-19 12:53:12 [INFO] shadowtogepi: Set own game mode to SURVIVAL mode[m
+2014-07-19 12:53:36 [INFO] mergedPLASMA32 issued server command: /gamemode s
+2014-07-19 12:53:36 [INFO] mergedPLASMA32: Set own game mode to SURVIVAL mode[m
+2014-07-19 12:53:48 [INFO] ionsto issued server command: /gamemode s
+2014-07-19 12:53:48 [INFO] ionsto: Set own game mode to SURVIVAL mode[m
+2014-07-19 12:53:59 [INFO] mergedPLASMA32 issued server command: /give mergedPLASMA32 COMPASS
+2014-07-19 12:53:59 [INFO] mergedPLASMA32: Gave mergedPLASMA32 some 345 (COMPASS)[m
+2014-07-19 12:54:18 [INFO] naganinga66[/86.26.7.78:49622] logged in with entity id 13419 at ([world] -126.5, 65.0, 250.5)
+2014-07-19 12:54:27 [INFO] <ionsto> Hey[m
+2014-07-19 12:54:34 [INFO] ionsto issued server command: /gamemode c
+2014-07-19 12:54:34 [INFO] ionsto: Set own game mode to CREATIVE mode[m
+2014-07-19 12:54:36 [INFO] ionsto issued server command: /tp shadowtogepi
+2014-07-19 12:54:36 [INFO] ionsto: Teleported ionsto to shadowtogepi[m
+2014-07-19 12:54:37 [INFO] shadowtogepi issued server command: /gamemode c
+2014-07-19 12:54:37 [INFO] shadowtogepi: Set own game mode to CREATIVE mode[m
+2014-07-19 12:54:57 [INFO] dachunkybanana[/212.44.17.108:49707] logged in with entity id 14156 at ([world] -112.5, 64.0, 260.5)
+2014-07-19 12:55:04 [INFO] mergedPLASMA32 issued server command: /tp dachunkybanana mergedPLASMA32
+2014-07-19 12:55:04 [INFO] mergedPLASMA32: Teleported dachunkybanana to mergedPLASMA32[m
+2014-07-19 12:55:07 [INFO] shadowtogepi issued server command: /gamemode s
+2014-07-19 12:55:07 [INFO] shadowtogepi: Set own game mode to SURVIVAL mode[m
+2014-07-19 12:55:08 [INFO] mergedPLASMA32 issued server command: /tp naganinga66 mergedPLASMA32
+2014-07-19 12:55:08 [INFO] mergedPLASMA32: Teleported naganinga66 to mergedPLASMA32[m
+2014-07-19 12:55:32 [INFO] ionsto issued server command: /gamemode s
+2014-07-19 12:55:32 [INFO] ionsto: Set own game mode to SURVIVAL mode[m
+2014-07-19 12:55:35 [INFO] mergedPLASMA32 issued server command: /gamemode s
+2014-07-19 12:55:37 [INFO] mergedPLASMA32 issued server command: /gamemode c
+2014-07-19 12:55:37 [INFO] mergedPLASMA32: Set own game mode to CREATIVE mode[m
+2014-07-19 12:55:40 [INFO] <ionsto> Can yo people use ISail[m
+2014-07-19 12:55:42 [INFO] mergedPLASMA32 issued server command: /tp dachunkybanana mergedPLASMA32
+2014-07-19 12:55:42 [INFO] mergedPLASMA32: Teleported dachunkybanana to mergedPLASMA32[m
+2014-07-19 12:55:55 [INFO] dachunkybanana withered away
+2014-07-19 12:56:02 [INFO] <shadowtogepi> Yo mum can use isail[m
+2014-07-19 12:56:17 [INFO] ionsto issued server command: /gamemode c
+2014-07-19 12:56:17 [INFO] ionsto: Set own game mode to CREATIVE mode[m
+2014-07-19 12:56:55 [INFO] <dachunkybanana> op meh[m
+2014-07-19 12:56:57 [INFO] arsenalgiraffe issued server command: //set 135
+2014-07-19 12:57:02 [INFO] <dachunkybanana> op meh[m
+2014-07-19 12:57:02 [INFO] <dachunkybanana> op meh[m
+2014-07-19 12:57:03 [INFO] <dachunkybanana> op meh[m
+2014-07-19 12:57:03 [INFO] <naganinga66> plz op meh[m
+2014-07-19 12:57:03 [INFO] <dachunkybanana> op meh[m
+2014-07-19 12:57:04 [INFO] [iSail] player mergedPLASMA32 was created a ship blob with size 192 blocks
+2014-07-19 12:57:40 [INFO] mergedPLASMA32 issued server command: /tp dachunkybanana mergedPLASMA32
+2014-07-19 12:57:40 [INFO] mergedPLASMA32: Teleported dachunkybanana to mergedPLASMA32[m
+2014-07-19 12:57:50 [INFO] mergedPLASMA32 issued server command: /give dachunkybanana 4 128
+2014-07-19 12:57:50 [INFO] mergedPLASMA32: Gave dachunkybanana some 4 (COBBLESTONE)[m
+2014-07-19 12:57:58 [INFO] mergedPLASMA32 issued server command: /give naganinga66 4 128
+2014-07-19 12:57:58 [INFO] mergedPLASMA32: Gave naganinga66 some 4 (COBBLESTONE)[m
+2014-07-19 12:58:14 [INFO] ionsto issued server command: /gamemode s
+2014-07-19 12:58:14 [INFO] ionsto: Set own game mode to SURVIVAL mode[m
+2014-07-19 12:58:14 [INFO] Disconnecting /86.26.0.207:60725: Protocol error
+2014-07-19 12:58:14 [INFO] /86.26.0.207:60725 lost connection
+2014-07-19 12:58:23 [INFO] ionsto issued server command: /gamemode c
+2014-07-19 12:58:23 [INFO] ionsto: Set own game mode to CREATIVE mode[m
+2014-07-19 12:58:24 [INFO] mergedPLASMA32 issued server command: /op naganinga66
+2014-07-19 12:58:24 [INFO] mergedPLASMA32: Opped naganinga66[m
+2014-07-19 12:58:25 [INFO] mergedPLASMA32 issued server command: /op dachunkybanana
+2014-07-19 12:58:25 [INFO] mergedPLASMA32: Opped dachunkybanana[m
+2014-07-19 12:58:40 [INFO] mergedPLASMA32 issued server command: /give naganinga66 46 64
+2014-07-19 12:58:40 [INFO] mergedPLASMA32: Gave naganinga66 some 46 (TNT)[m
+2014-07-19 12:58:47 [INFO] mergedPLASMA32 issued server command: /give dachunkybanana 46 64
+2014-07-19 12:58:47 [INFO] mergedPLASMA32: Gave dachunkybanana some 46 (TNT)[m
+2014-07-19 12:58:53 [INFO] ionsto issued server command: /gamemode s
+2014-07-19 12:58:53 [INFO] ionsto: Set own game mode to SURVIVAL mode[m
+2014-07-19 12:59:08 [INFO] ionsto issued server command: /gamemode c
+2014-07-19 12:59:08 [INFO] ionsto: Set own game mode to CREATIVE mode[m
+2014-07-19 12:59:23 [INFO] ionsto issued server command: /gamemode s
+2014-07-19 12:59:23 [INFO] ionsto: Set own game mode to SURVIVAL mode[m
+2014-07-19 12:59:28 [INFO] <dachunkybanana> canons broken[m
+2014-07-19 12:59:55 [WARNING] Player mergedPLASMA32 just tried to change non-editable sign
+2014-07-19 13:00:19 [INFO] ionsto issued server command: /stop
+2014-07-19 13:00:19 [INFO] ionsto: Stopping the server..[m
+2014-07-19 13:00:19 [INFO] Stopping server
+2014-07-19 13:00:19 [INFO] [iSail] Disabling iSail v0.956
+2014-07-19 13:00:19 [INFO] [iSail] Disabling ship Shrimp's_End
+2014-07-19 13:00:19 [INFO] [iSail] Disabling ship Spongy
+2014-07-19 13:00:19 [INFO] [iSail] Disabling ship Please_no_sink
+2014-07-19 13:00:19 [INFO] [iSail] Disabling ship blob
+2014-07-19 13:00:19 [INFO] [iSail] was disabled!
+2014-07-19 13:00:19 [INFO] [WorldEdit] Disabling WorldEdit v5.6.2
+2014-07-19 13:00:19 [INFO] [CompassTracker] Disabling CompassTracker v1.2
+2014-07-19 13:00:19 [INFO] [CompassTracker] Disabled!
+2014-07-19 13:00:19 [INFO] [TSG_WitherWater] Disabling TSG_WitherWater v1
+2014-07-19 13:00:19 [INFO] Saving YAML
+2014-07-19 13:00:19 [INFO] [PirateCannon] Disabling PirateCannon v1.0.5
+2014-07-19 13:00:19 [INFO] [PirateCannon] PirateCannons Disabled!
+2014-07-19 13:00:19 [INFO] Saving players
+2014-07-19 13:00:19 [WARNING] DSCT: socket closed
+2014-07-19 13:00:19 [INFO] Closing listening thread
+2014-07-19 13:00:19 [INFO] §eionsto left the game.
+2014-07-19 13:00:19 [INFO] §emergedPLASMA32 left the game.
+2014-07-19 13:00:20 [INFO] §earsenalgiraffe left the game.
+2014-07-19 13:00:20 [INFO] §eshadowtogepi left the game.
+2014-07-19 13:00:20 [INFO] §enaganinga66 left the game.
+2014-07-19 13:00:20 [INFO] §edachunkybanana left the game.
+2014-07-19 13:00:20 [INFO] Saving worlds
+2014-07-19 13:00:20 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-19 13:00:21 [INFO] Saving chunks for level 'world_nether'/Nether
+2014-07-19 13:00:21 [INFO] Saving chunks for level 'world_the_end'/The End
+2014-07-19 13:00:21 [INFO] Stopping server
+2014-07-19 13:00:21 [INFO] Saving players
+2014-07-19 13:00:21 [INFO] Saving worlds
+2014-07-19 13:00:21 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-19 13:00:43 [INFO] Starting minecraft server version 1.6.4
+2014-07-19 13:00:43 [INFO] Loading properties
+2014-07-19 13:00:43 [INFO] Default game type: SURVIVAL
+2014-07-19 13:00:43 [INFO] Generating keypair
+2014-07-19 13:00:43 [INFO] Starting Minecraft server on *:25565
+2014-07-19 13:00:43 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-07-19 13:00:43 [INFO] [PirateCannon] Loading PirateCannon v1.0.5
+2014-07-19 13:00:43 [INFO] [TSG_WitherWater] Loading TSG_WitherWater v1
+2014-07-19 13:00:43 [INFO] [CompassTracker] Loading CompassTracker v1.2
+2014-07-19 13:00:43 [INFO] [WorldEdit] Loading WorldEdit v5.6.2
+2014-07-19 13:00:43 [INFO] [iSail] Loading iSail v0.956
+2014-07-19 13:00:43 [INFO] Preparing level "world"
+2014-07-19 13:00:44 [WARNING] ----- Bukkit Auto Updater -----
+2014-07-19 13:00:44 [WARNING] Your version of CraftBukkit is out of date. Version 1.6.4-R2.0 (build #2918) was released on Wed Oct 30 23:39:40 GMT 2013.
+2014-07-19 13:00:44 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/02389_1.6.4-R2.0/
+2014-07-19 13:00:44 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/02389_1.6.4-R2.0/craftbukkit.jar
+2014-07-19 13:00:44 [WARNING] ----- ------------------- -----
+2014-07-19 13:00:44 [INFO] Preparing start region for level 0 (Seed: -7114891627215597658)
+2014-07-19 13:00:45 [INFO] Preparing start region for level 1 (Seed: -7114891627215597658)
+2014-07-19 13:00:45 [INFO] Preparing start region for level 2 (Seed: -7114891627215597658)
+2014-07-19 13:00:45 [INFO] [PirateCannon] Enabling PirateCannon v1.0.5
+2014-07-19 13:00:45 [INFO] [PirateCannon] PirateCannons Enabled!
+2014-07-19 13:00:45 [INFO] [TSG_WitherWater] Enabling TSG_WitherWater v1
+2014-07-19 13:00:45 [INFO] Loading YAML
+2014-07-19 13:00:45 [INFO] [CompassTracker] Enabling CompassTracker v1.2
+2014-07-19 13:00:45 [INFO] [CompassTracker] Enabled!
+2014-07-19 13:00:45 [INFO] [WorldEdit] Enabling WorldEdit v5.6.2
+2014-07-19 13:00:45 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-07-19 13:00:46 [INFO] [iSail] Enabling iSail v0.956
+2014-07-19 13:00:46 [INFO] [iSail] Cannons plugin not found, using default paramethers
+2014-07-19 13:00:46 [INFO] [iSail] Ship Shrimp's_End was enabled!
+2014-07-19 13:00:46 [INFO] [iSail] Ship Spongy was enabled!
+2014-07-19 13:00:46 [INFO] [iSail] Ship Please_no_sink was enabled!
+2014-07-19 13:00:46 [INFO] [iSail] Ship blob was enabled!
+2014-07-19 13:00:46 [INFO] [iSail] loading configuration file config.yml
+2014-07-19 13:00:46 [INFO] [iSail] Successfully enabled!
+2014-07-19 13:00:46 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-07-19 13:00:46 [INFO] Done (2.268s)! For help, type "help" or "?"
+2014-07-19 13:00:48 [INFO] ionsto[/86.27.183.106:56356] logged in with entity id 273 at ([world] -110.4508141449748, 64.5, 513.5984034956105)
+2014-07-19 13:00:49 [INFO] naganinga66[/86.26.7.78:49690] logged in with entity id 368 at ([world] -84.94063184755589, 65.0, 301.1014212763901)
+2014-07-19 13:00:50 [SEVERE] No TreeType mapping for TreeGenerator.TreeType.ACACIA
+2014-07-19 13:00:50 [SEVERE] No TreeType mapping for TreeGenerator.TreeType.DARK_OAK
+2014-07-19 13:00:50 [SEVERE] No TreeType mapping for TreeGenerator.TreeType.MEGA_REDWOOD
+2014-07-19 13:00:50 [SEVERE] No TreeType mapping for TreeGenerator.TreeType.TALL_BIRCH
+2014-07-19 13:00:51 [INFO] [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_164
+2014-07-19 13:00:57 [INFO] mergedPLASMA32 [/86.27.183.106:52039] lost connection
+2014-07-19 13:01:00 [INFO] arsenalgiraffe[/94.6.44.221:1777] logged in with entity id 671 at ([world] -116.65626711620027, 65.23209460408836, 381.28789717138335)
+2014-07-19 13:01:09 [INFO] ionsto issued server command: /gamemode c
+2014-07-19 13:01:09 [INFO] ionsto: Set own game mode to CREATIVE mode[m
+2014-07-19 13:01:28 [INFO] ionsto issued server command: /gamemode s
+2014-07-19 13:01:28 [INFO] ionsto: Set own game mode to SURVIVAL mode[m
+2014-07-19 13:01:29 [INFO] shadowtogepi[/94.6.44.221:50499] logged in with entity id 1012 at ([world] -155.5, 63.0, 491.5)
+2014-07-19 13:01:48 [INFO] dachunkybanana[/212.44.17.108:49813] logged in with entity id 1259 at ([world] -87.4704943700308, 75.0, 296.37947899628836)
+2014-07-19 13:01:49 [INFO] shadowtogepi issued server command: /give shadowtogepi 17 2 1
+2014-07-19 13:01:49 [INFO] shadowtogepi: Gave shadowtogepi some 17 (LOG)[m
+2014-07-19 13:01:50 [INFO] mergedPLASMA32[/86.27.183.106:52070] logged in with entity id 1300 at ([world] -89.39946410257386, 64.0, 298.7058211362616)
+2014-07-19 13:01:54 [INFO] ionsto issued server command: /give ionsto LOG
+2014-07-19 13:01:54 [INFO] ionsto: Gave ionsto some 17 (LOG)[m
+2014-07-19 13:01:58 [INFO] ionsto issued server command: /give ionsto LOG 5
+2014-07-19 13:01:58 [INFO] ionsto: Gave ionsto some 17 (LOG)[m
+2014-07-19 13:01:59 [INFO] shadowtogepi issued server command: /give shadowtogepi 17 2 1
+2014-07-19 13:01:59 [INFO] shadowtogepi: Gave shadowtogepi some 17 (LOG)[m
+2014-07-19 13:02:07 [INFO] <shadowtogepi> give shadowtogepi 41[m
+2014-07-19 13:02:11 [INFO] mergedPLASMA32 issued server command: /give naganinga66 SULPHUR 64
+2014-07-19 13:02:12 [INFO] mergedPLASMA32: Gave naganinga66 some 289 (SULPHUR)[m
+2014-07-19 13:02:12 [INFO] shadowtogepi issued server command: /give shadowtogepi 41
+2014-07-19 13:02:12 [INFO] shadowtogepi: Gave shadowtogepi some 41 (GOLD_BLOCK)[m
+2014-07-19 13:02:14 [INFO] shadowtogepi issued server command: /give shadowtogepi 41
+2014-07-19 13:02:14 [INFO] shadowtogepi: Gave shadowtogepi some 41 (GOLD_BLOCK)[m
+2014-07-19 13:02:18 [INFO] ionsto issued server command: /give ionsto SIGN 2
+2014-07-19 13:02:18 [INFO] ionsto: Gave ionsto some 323 (SIGN)[m
+2014-07-19 13:02:32 [INFO] mergedPLASMA32 issued server command: /give dachunkybanana SULPHUR 64
+2014-07-19 13:02:32 [INFO] mergedPLASMA32: Gave dachunkybanana some 289 (SULPHUR)[m
+2014-07-19 13:02:49 [INFO] ionsto issued server command: /give ionsto GOLD_BLOCK
+2014-07-19 13:02:49 [INFO] ionsto: Gave ionsto some 41 (GOLD_BLOCK)[m
+2014-07-19 13:02:49 [INFO] shadowtogepi issued server command: /give shadowtogepi 323 3
+2014-07-19 13:02:49 [INFO] shadowtogepi: Gave shadowtogepi some 323 (SIGN)[m
+2014-07-19 13:02:49 [INFO] ionsto issued server command: /give ionsto GOLD_BLOCK
+2014-07-19 13:02:50 [INFO] ionsto: Gave ionsto some 41 (GOLD_BLOCK)[m
+2014-07-19 13:02:57 [INFO] <mergedPLASMA32> what?[m
+2014-07-19 13:03:04 [INFO] mergedPLASMA32 issued server command: /gamemode s
+2014-07-19 13:03:04 [INFO] mergedPLASMA32: Set own game mode to SURVIVAL mode[m
+2014-07-19 13:03:16 [INFO] ionsto issued server command: /gamemode c
+2014-07-19 13:03:16 [INFO] ionsto: Set own game mode to CREATIVE mode[m
+2014-07-19 13:03:17 [INFO] mergedPLASMA32 issued server command: /gamemode s
+2014-07-19 13:03:18 [INFO] shadowtogepi issued server command: /give shadowtogepi 289 64
+2014-07-19 13:03:18 [INFO] shadowtogepi: Gave shadowtogepi some 289 (SULPHUR)[m
+2014-07-19 13:03:18 [INFO] mergedPLASMA32 issued server command: /gamemode c
+2014-07-19 13:03:18 [INFO] mergedPLASMA32: Set own game mode to CREATIVE mode[m
+2014-07-19 13:03:20 [INFO] shadowtogepi issued server command: /give shadowtogepi 289 64
+2014-07-19 13:03:20 [INFO] shadowtogepi: Gave shadowtogepi some 289 (SULPHUR)[m
+2014-07-19 13:03:29 [INFO] [iSail] player arsenalgiraffe was created a ship Muy Bien with size 208 blocks
+2014-07-19 13:03:37 [INFO] mergedPLASMA32 issued server command: /gamemode s
+2014-07-19 13:03:37 [INFO] mergedPLASMA32: Set own game mode to SURVIVAL mode[m
+2014-07-19 13:03:42 [INFO] ionsto issued server command: /gamemode s
+2014-07-19 13:03:42 [INFO] ionsto: Set own game mode to SURVIVAL mode[m
+2014-07-19 13:03:58 [INFO] mergedPLASMA32 issued server command: /gamemode c
+2014-07-19 13:03:58 [INFO] mergedPLASMA32: Set own game mode to CREATIVE mode[m
+2014-07-19 13:04:08 [INFO] mergedPLASMA32 issued server command: /gamemode s
+2014-07-19 13:04:08 [INFO] mergedPLASMA32: Set own game mode to SURVIVAL mode[m
+2014-07-19 13:04:28 [INFO] shadowtogepi issued server command: /gamemode c
+2014-07-19 13:04:28 [INFO] shadowtogepi: Set own game mode to CREATIVE mode[m
+2014-07-19 13:04:30 [INFO] ionsto issued server command: /give ionsto SULPHUR 64
+2014-07-19 13:04:30 [INFO] ionsto: Gave ionsto some 289 (SULPHUR)[m
+2014-07-19 13:04:32 [INFO] ionsto issued server command: /give ionsto SULPHUR 64
+2014-07-19 13:04:32 [INFO] ionsto: Gave ionsto some 289 (SULPHUR)[m
+2014-07-19 13:04:35 [INFO] ionsto issued server command: /give ionsto SULPHUR 64
+2014-07-19 13:04:35 [INFO] ionsto: Gave ionsto some 289 (SULPHUR)[m
+2014-07-19 13:04:35 [INFO] ionsto issued server command: /give ionsto SULPHUR 64
+2014-07-19 13:04:35 [INFO] ionsto: Gave ionsto some 289 (SULPHUR)[m
+2014-07-19 13:04:36 [INFO] ionsto issued server command: /give ionsto SULPHUR 64
+2014-07-19 13:04:36 [INFO] ionsto: Gave ionsto some 289 (SULPHUR)[m
+2014-07-19 13:04:36 [INFO] ionsto issued server command: /give ionsto SULPHUR 64
+2014-07-19 13:04:36 [INFO] ionsto: Gave ionsto some 289 (SULPHUR)[m
+2014-07-19 13:04:42 [INFO] shadowtogepi issued server command: /gamemode s
+2014-07-19 13:04:42 [INFO] shadowtogepi: Set own game mode to SURVIVAL mode[m
+2014-07-19 13:04:50 [INFO] shadowtogepi issued server command: /gamemode c
+2014-07-19 13:04:50 [INFO] shadowtogepi: Set own game mode to CREATIVE mode[m
+2014-07-19 13:05:04 [INFO] Connection reset
+2014-07-19 13:05:04 [INFO] dachunkybanana lost connection: disconnect.genericReason
+2014-07-19 13:05:04 [INFO] [iSail] Player dachunkybanana start sleep at ship blob
+2014-07-19 13:05:04 [INFO] §edachunkybanana left the game.
+2014-07-19 13:05:54 [INFO] mergedPLASMA32 issued server command: /gamemode 1
+2014-07-19 13:05:54 [INFO] mergedPLASMA32: Set own game mode to CREATIVE mode[m
+2014-07-19 13:06:04 [INFO] shadowtogepi issued server command: //copy
+2014-07-19 13:06:09 [INFO] ionsto issued server command: /gamemode c
+2014-07-19 13:06:09 [INFO] ionsto: Set own game mode to CREATIVE mode[m
+2014-07-19 13:06:12 [INFO] ionsto issued server command: /tp arsenalgiraffe
+2014-07-19 13:06:12 [INFO] ionsto: Teleported ionsto to arsenalgiraffe[m
+2014-07-19 13:06:12 [WARNING] [iSail] Task #4 for iSail v0.956 generated an exception
+java.lang.NullPointerException
+	at org.bukkit.craftbukkit.v1_6_R3.block.CraftSign.<init>(CraftSign.java:17)
+	at org.bukkit.craftbukkit.v1_6_R3.block.CraftBlock.getState(CraftBlock.java:243)
+	at iSail.Ship.startMove(Ship.java:203)
+	at iSail.iSail$2.run(iSail.java:1274)
+	at org.bukkit.craftbukkit.v1_6_R3.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_6_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.t(MinecraftServer.java:524)
+	at net.minecraft.server.v1_6_R3.DedicatedServer.t(DedicatedServer.java:227)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.s(MinecraftServer.java:488)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:421)
+	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+2014-07-19 13:06:16 [INFO] shadowtogepi issued server command: /gamemode s
+2014-07-19 13:06:16 [INFO] shadowtogepi: Set own game mode to SURVIVAL mode[m
+2014-07-19 13:06:40 [WARNING] [iSail] Task #4 for iSail v0.956 generated an exception
+java.lang.NullPointerException
+	at org.bukkit.craftbukkit.v1_6_R3.block.CraftSign.<init>(CraftSign.java:17)
+	at org.bukkit.craftbukkit.v1_6_R3.block.CraftBlock.getState(CraftBlock.java:243)
+	at iSail.Ship.getM(Ship.java:1422)
+	at iSail.Ship.pickHanding(Ship.java:1096)
+	at iSail.Ship.pickBlocks(Ship.java:991)
+	at iSail.Ship.startMove(Ship.java:284)
+	at iSail.iSail$2.run(iSail.java:1274)
+	at org.bukkit.craftbukkit.v1_6_R3.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_6_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.t(MinecraftServer.java:524)
+	at net.minecraft.server.v1_6_R3.DedicatedServer.t(DedicatedServer.java:227)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.s(MinecraftServer.java:488)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:421)
+	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+2014-07-19 13:06:54 [INFO] mergedPLASMA32 issued server command: /gamemode s
+2014-07-19 13:06:54 [INFO] mergedPLASMA32: Set own game mode to SURVIVAL mode[m
+2014-07-19 13:07:09 [INFO] dachunkybanana[/212.44.17.108:50228] logged in with entity id 7099 at ([world] -92.24568576182604, 62.0, 293.5)
+2014-07-19 13:07:09 [INFO] [iSail] Player dachunkybanana joined to ship blob
+2014-07-19 13:07:24 [INFO] mergedPLASMA32 issued server command: /gamemode c
+2014-07-19 13:07:24 [INFO] mergedPLASMA32: Set own game mode to CREATIVE mode[m
+2014-07-19 13:07:49 [INFO] shadowtogepi issued server command: /gamemode c
+2014-07-19 13:07:49 [INFO] shadowtogepi: Set own game mode to CREATIVE mode[m
+2014-07-19 13:08:18 [INFO] mergedPLASMA32 issued server command: /gamemode c
+2014-07-19 13:08:35 [INFO] mergedPLASMA32 issued server command: //
+2014-07-19 13:08:37 [INFO] shadowtogepi issued server command: /gamemode s
+2014-07-19 13:08:37 [INFO] shadowtogepi: Set own game mode to SURVIVAL mode[m
+2014-07-19 13:08:38 [INFO] [iSail] Error occupied while disabling ship! Check your java!
+2014-07-19 13:08:38 [INFO] [iSail] Double error!
+2014-07-19 13:08:38 [INFO] [iSail] Triple error!
+2014-07-19 13:08:38 [INFO] Ship Spongy has been destroyed. Reason: Damaged
+2014-07-19 13:09:22 [INFO] ionsto issued server command: /gamemode s
+2014-07-19 13:09:22 [INFO] ionsto: Set own game mode to SURVIVAL mode[m
+2014-07-19 13:09:34 [INFO] <dachunkybanana> sorry[m
+2014-07-19 13:09:37 [INFO] arsenalgiraffe issued server command: /gamemode s
+2014-07-19 13:09:37 [INFO] arsenalgiraffe: Set own game mode to SURVIVAL mode[m
+2014-07-19 13:09:46 [INFO] mergedPLASMA32 issued server command: /gamemode s
+2014-07-19 13:09:46 [INFO] mergedPLASMA32: Set own game mode to SURVIVAL mode[m
+2014-07-19 13:10:02 [INFO] shadowtogepi issued server command: /gamemode c
+2014-07-19 13:10:02 [INFO] shadowtogepi: Set own game mode to CREATIVE mode[m
+2014-07-19 13:10:05 [WARNING] [iSail] player arsenalgiraffe tried plagiate name of ship Muy Bien
+2014-07-19 13:10:20 [INFO] ionsto issued server command: /gamemode c
+2014-07-19 13:10:20 [INFO] ionsto: Set own game mode to CREATIVE mode[m
+2014-07-19 13:10:23 [INFO] [iSail] player arsenalgiraffe was created a ship Muy bueno with size 217 blocks
+2014-07-19 13:10:41 [INFO] arsenalgiraffe issued server command: /gamemode c
+2014-07-19 13:10:41 [INFO] arsenalgiraffe: Set own game mode to CREATIVE mode[m
+2014-07-19 13:10:45 [INFO] mergedPLASMA32 issued server command: /give naganinga66 COOKED_BEEF 64
+2014-07-19 13:10:45 [INFO] mergedPLASMA32: Gave naganinga66 some 364 (COOKED_BEEF)[m
+2014-07-19 13:10:48 [INFO] shadowtogepi issued server command: //clear
+2014-07-19 13:10:55 [INFO] mergedPLASMA32 issued server command: /give mergedPLASMA32 COOKED_BEEF 64
+2014-07-19 13:10:55 [INFO] mergedPLASMA32: Gave mergedPLASMA32 some 364 (COOKED_BEEF)[m
+2014-07-19 13:11:03 [INFO] mergedPLASMA32 issued server command: /give dachunkybanana COOKED_BEEF 64
+2014-07-19 13:11:03 [INFO] mergedPLASMA32: Gave dachunkybanana some 364 (COOKED_BEEF)[m
+2014-07-19 13:11:04 [INFO] shadowtogepi issued server command: //set 9
+2014-07-19 13:11:25 [INFO] ionsto issued server command: /tp ionsto -320 100 700
+2014-07-19 13:11:25 [INFO] ionsto: Teleported ionsto to -319.50, 100.50, 700.50[m
+2014-07-19 13:11:36 [INFO] shadowtogepi issued server command: //set 9
+2014-07-19 13:11:38 [INFO] ionsto issued server command: /gamemode s
+2014-07-19 13:11:38 [INFO] ionsto: Set own game mode to SURVIVAL mode[m
+2014-07-19 13:11:57 [INFO] <ionsto> GG[m
+2014-07-19 13:12:00 [INFO] <ionsto> GGWELLPLAYED[m
+2014-07-19 13:12:35 [INFO] shadowtogepi issued server command: //paste
+2014-07-19 13:12:43 [INFO] shadowtogepi issued server command: //undo
+2014-07-19 13:13:04 [INFO] [iSail] Error occupied while disabling ship! Check your java!
+2014-07-19 13:13:04 [INFO] [iSail] Double error!
+2014-07-19 13:13:04 [INFO] [iSail] Triple error!
+2014-07-19 13:13:04 [INFO] Ship Please_no_sink has been destroyed. Reason: This ship was drowned
+2014-07-19 13:13:15 [INFO] shadowtogepi issued server command: //paste
+2014-07-19 13:13:16 [INFO] mergedPLASMA32 issued server command: /tp naganinga66 mergedPLASMA32
+2014-07-19 13:13:16 [INFO] mergedPLASMA32: Teleported naganinga66 to mergedPLASMA32[m
+2014-07-19 13:14:03 [INFO] shadowtogepi issued server command: //replace 9 0
+2014-07-19 13:14:21 [INFO] arsenalgiraffe issued server command: //set wool
+2014-07-19 13:14:55 [INFO] ionsto issued server command: /give ionsto LOG 3
+2014-07-19 13:14:55 [INFO] ionsto: Gave ionsto some 17 (LOG)[m
+2014-07-19 13:15:03 [INFO] ionsto issued server command: /give ionsto SIGN
+2014-07-19 13:15:03 [INFO] ionsto: Gave ionsto some 323 (SIGN)[m
+2014-07-19 13:15:08 [INFO] ionsto issued server command: /give ionsto LOG 3
+2014-07-19 13:15:08 [INFO] ionsto: Gave ionsto some 17 (LOG)[m
+2014-07-19 13:15:41 [INFO] [iSail] player shadowtogepi was created a ship Delicious_Pasta with size 219 blocks
+2014-07-19 13:16:08 [INFO] shadowtogepi issued server command: /gamemode s
+2014-07-19 13:16:08 [INFO] shadowtogepi: Set own game mode to SURVIVAL mode[m
+2014-07-19 13:16:12 [INFO] shadowtogepi issued server command: /gamemode c
+2014-07-19 13:16:12 [INFO] shadowtogepi: Set own game mode to CREATIVE mode[m
+2014-07-19 13:17:10 [INFO] ionsto issued server command: /gamemode c
+2014-07-19 13:17:10 [INFO] ionsto: Set own game mode to CREATIVE mode[m
+2014-07-19 13:17:12 [INFO] ionsto issued server command: /tp arsenalgiraffe
+2014-07-19 13:17:12 [INFO] ionsto: Teleported ionsto to arsenalgiraffe[m
+2014-07-19 13:17:17 [INFO] mergedPLASMA32 issued server command: /tp dachunkybanana mergedPLASMA32
+2014-07-19 13:17:17 [INFO] mergedPLASMA32: Teleported dachunkybanana to mergedPLASMA32[m
+2014-07-19 13:17:31 [INFO] shadowtogepi issued server command: //set 35:5
+2014-07-19 13:18:30 [INFO] shadowtogepi issued server command: /gamemode s
+2014-07-19 13:18:30 [INFO] shadowtogepi: Set own game mode to SURVIVAL mode[m
+2014-07-19 13:18:49 [INFO] [iSail] Error occupied while disabling ship! Check your java!
+2014-07-19 13:18:49 [INFO] [iSail] Double error!
+2014-07-19 13:18:49 [INFO] [iSail] Triple error!
+2014-07-19 13:18:49 [INFO] Ship Muy Bien has been destroyed. Reason: Damaged
+2014-07-19 13:19:40 [WARNING] [iSail] Task #4 for iSail v0.956 generated an exception
+java.lang.NullPointerException
+2014-07-19 13:19:51 [INFO] arsenalgiraffe issued server command: /clear
+2014-07-19 13:19:51 [INFO] arsenalgiraffe: Cleared the inventory of arsenalgiraffe, removing 85 items[m
+2014-07-19 13:20:07 [INFO] <mergedPLASMA32> MAGOD[m
+2014-07-19 13:20:12 [INFO] mergedPLASMA32 issued server command: /gamemode c
+2014-07-19 13:20:12 [INFO] mergedPLASMA32: Set own game mode to CREATIVE mode[m
+2014-07-19 13:20:23 [INFO] ionsto issued server command: /tp ionsto -885 100 566
+2014-07-19 13:20:23 [INFO] ionsto: Teleported ionsto to -884.50, 100.50, 566.50[m
+2014-07-19 13:20:32 [INFO] shadowtogepi issued server command: /gamemode c
+2014-07-19 13:20:32 [INFO] shadowtogepi: Set own game mode to CREATIVE mode[m
+2014-07-19 13:20:54 [INFO] ionsto issued server command: /gamemode s
+2014-07-19 13:20:54 [INFO] ionsto: Set own game mode to SURVIVAL mode[m
+2014-07-19 13:21:15 [INFO] dachunkybanana withered away
+2014-07-19 13:21:24 [INFO] dachunkybanana issued server command: /gamemode 1
+2014-07-19 13:21:24 [INFO] dachunkybanana: Set own game mode to CREATIVE mode[m
+2014-07-19 13:21:26 [INFO] ionsto issued server command: /gamemode c
+2014-07-19 13:21:26 [INFO] ionsto: Set own game mode to CREATIVE mode[m
+2014-07-19 13:21:45 [INFO] ionsto issued server command: /gamemode s
+2014-07-19 13:21:45 [INFO] ionsto: Set own game mode to SURVIVAL mode[m
+2014-07-19 13:22:02 [INFO] dachunkybanana issued server command: /tp dachunkybanana mergedPLASMA32
+2014-07-19 13:22:02 [INFO] dachunkybanana: Teleported dachunkybanana to mergedPLASMA32[m
+2014-07-19 13:22:05 [INFO] mergedPLASMA32 lost connection: disconnect.quitting
+2014-07-19 13:22:05 [INFO] Connection reset
+2014-07-19 13:22:05 [INFO] §emergedPLASMA32 left the game.
+2014-07-19 13:22:07 [INFO] Connection reset
+2014-07-19 13:22:07 [INFO] dachunkybanana lost connection: disconnect.quitting
+2014-07-19 13:22:07 [INFO] §edachunkybanana left the game.
+2014-07-19 13:22:09 [INFO] ionsto issued server command: /stop
+2014-07-19 13:22:09 [INFO] ionsto: Stopping the server..[m
+2014-07-19 13:22:09 [INFO] Stopping server
+2014-07-19 13:22:09 [INFO] [iSail] Disabling iSail v0.956
+2014-07-19 13:22:09 [INFO] [iSail] Disabling ship Shrimp's_End
+2014-07-19 13:22:09 [INFO] [iSail] Disabling ship Spongy
+2014-07-19 13:22:09 [INFO] [iSail] Disabling ship Please_no_sink
+2014-07-19 13:22:09 [INFO] [iSail] Disabling ship blob
+2014-07-19 13:22:09 [INFO] [iSail] Disabling ship Muy Bien
+2014-07-19 13:22:09 [INFO] [iSail] Disabling ship Muy bueno
+2014-07-19 13:22:09 [INFO] [iSail] Disabling ship Delicious_Pasta
+2014-07-19 13:22:09 [INFO] [iSail] was disabled!
+2014-07-19 13:22:09 [INFO] [WorldEdit] Disabling WorldEdit v5.6.2
+2014-07-19 13:22:09 [INFO] [CompassTracker] Disabling CompassTracker v1.2
+2014-07-19 13:22:09 [INFO] [CompassTracker] Disabled!
+2014-07-19 13:22:09 [INFO] [TSG_WitherWater] Disabling TSG_WitherWater v1
+2014-07-19 13:22:09 [INFO] Saving YAML
+2014-07-19 13:22:09 [INFO] [PirateCannon] Disabling PirateCannon v1.0.5
+2014-07-19 13:22:09 [INFO] [PirateCannon] PirateCannons Disabled!
+2014-07-19 13:22:09 [INFO] Saving players
+2014-07-19 13:22:09 [WARNING] DSCT: socket closed
+2014-07-19 13:22:09 [INFO] Closing listening thread
+2014-07-19 13:22:09 [INFO] §eionsto left the game.
+2014-07-19 13:22:09 [INFO] §enaganinga66 left the game.
+2014-07-19 13:22:09 [INFO] §earsenalgiraffe left the game.
+2014-07-19 13:22:09 [INFO] §eshadowtogepi left the game.
+2014-07-19 13:22:09 [INFO] Saving worlds
+2014-07-19 13:22:09 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-19 13:22:10 [INFO] Saving chunks for level 'world_nether'/Nether
+2014-07-19 13:22:10 [INFO] Saving chunks for level 'world_the_end'/The End
+2014-07-19 13:22:10 [INFO] Stopping server
