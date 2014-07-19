@@ -1,0 +1,305 @@
+2014-07-19 11:44:21 [INFO] Starting minecraft server version 1.6.4
+2014-07-19 11:44:21 [INFO] Loading properties
+2014-07-19 11:44:21 [WARNING] server.properties does not exist
+2014-07-19 11:44:21 [INFO] Generating new properties file
+2014-07-19 11:44:21 [INFO] Default game type: SURVIVAL
+2014-07-19 11:44:21 [INFO] Generating keypair
+2014-07-19 11:44:21 [INFO] Starting Minecraft server on *:25565
+2014-07-19 11:44:21 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-07-19 11:44:22 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (The system cannot find the file specified)
+2014-07-19 11:44:22 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (The system cannot find the file specified)
+2014-07-19 11:44:22 [INFO] Preparing level "world"
+2014-07-19 11:44:22 [WARNING] ----- Bukkit Auto Updater -----
+2014-07-19 11:44:22 [WARNING] Your version of CraftBukkit is out of date. Version 1.6.4-R2.0 (build #2918) was released on Wed Oct 30 23:39:40 GMT 2013.
+2014-07-19 11:44:22 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/02389_1.6.4-R2.0/
+2014-07-19 11:44:22 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/02389_1.6.4-R2.0/craftbukkit.jar
+2014-07-19 11:44:22 [WARNING] ----- ------------------- -----
+2014-07-19 11:44:22 [INFO] Preparing start region for level 0 (Seed: -7114891627215597658)
+2014-07-19 11:44:23 [INFO] Preparing spawn area: 12%
+2014-07-19 11:44:24 [INFO] Preparing spawn area: 27%
+2014-07-19 11:44:25 [INFO] Preparing spawn area: 43%
+2014-07-19 11:44:26 [INFO] Preparing spawn area: 60%
+2014-07-19 11:44:27 [INFO] Preparing spawn area: 78%
+2014-07-19 11:44:28 [INFO] Preparing spawn area: 96%
+2014-07-19 11:44:28 [INFO] Preparing start region for level 1 (Seed: -7114891627215597658)
+2014-07-19 11:44:29 [INFO] Preparing spawn area: 16%
+2014-07-19 11:44:30 [INFO] Preparing spawn area: 33%
+2014-07-19 11:44:31 [INFO] Preparing spawn area: 53%
+2014-07-19 11:44:32 [INFO] Preparing spawn area: 79%
+2014-07-19 11:44:33 [INFO] Preparing spawn area: 97%
+2014-07-19 11:44:33 [INFO] Preparing start region for level 2 (Seed: -7114891627215597658)
+2014-07-19 11:44:34 [INFO] Preparing spawn area: 59%
+2014-07-19 11:44:35 [INFO] Done (13.354s)! For help, type "help" or "?"
+2014-07-19 11:44:35 [INFO] Disconnecting /94.6.44.221:1351: Protocol error
+2014-07-19 11:44:35 [INFO] /94.6.44.221:1351 lost connection
+2014-07-19 11:44:54 [INFO] CONSOLE: Stopping the server..[m
+2014-07-19 11:44:54 [INFO] Stopping server
+2014-07-19 11:44:54 [INFO] Saving players
+2014-07-19 11:44:54 [WARNING] DSCT: socket closed
+2014-07-19 11:44:54 [INFO] Closing listening thread
+2014-07-19 11:44:54 [INFO] Saving worlds
+2014-07-19 11:44:54 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-19 11:44:56 [INFO] Saving chunks for level 'world_nether'/Nether
+2014-07-19 11:44:56 [INFO] Saving chunks for level 'world_the_end'/The End
+2014-07-19 11:44:58 [INFO] Starting minecraft server version 1.6.4
+2014-07-19 11:44:58 [INFO] Loading properties
+2014-07-19 11:44:58 [INFO] Default game type: SURVIVAL
+2014-07-19 11:44:58 [INFO] Generating keypair
+2014-07-19 11:44:59 [INFO] Starting Minecraft server on *:25565
+2014-07-19 11:44:59 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-07-19 11:44:59 [INFO] [TSG_WitherWater] Loading TSG_WitherWater v1
+2014-07-19 11:44:59 [INFO] Preparing level "world"
+2014-07-19 11:44:59 [WARNING] ----- Bukkit Auto Updater -----
+2014-07-19 11:44:59 [WARNING] Your version of CraftBukkit is out of date. Version 1.6.4-R2.0 (build #2918) was released on Wed Oct 30 23:39:40 GMT 2013.
+2014-07-19 11:44:59 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/02389_1.6.4-R2.0/
+2014-07-19 11:44:59 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/02389_1.6.4-R2.0/craftbukkit.jar
+2014-07-19 11:44:59 [WARNING] ----- ------------------- -----
+2014-07-19 11:44:59 [INFO] Preparing start region for level 0 (Seed: -7114891627215597658)
+2014-07-19 11:45:00 [INFO] Preparing start region for level 1 (Seed: -7114891627215597658)
+2014-07-19 11:45:00 [INFO] Preparing start region for level 2 (Seed: -7114891627215597658)
+2014-07-19 11:45:01 [INFO] [TSG_WitherWater] Enabling TSG_WitherWater v1
+2014-07-19 11:45:01 [INFO] Loading YAML
+2014-07-19 11:45:01 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-07-19 11:45:01 [INFO] Done (1.605s)! For help, type "help" or "?"
+2014-07-19 11:45:03 [INFO] ionsto[/86.27.183.106:54629] logged in with entity id 181 at ([world] -116.5, 64.0, 265.5)
+2014-07-19 11:45:25 [INFO] ionsto issued server command: /stop
+2014-07-19 11:45:39 [INFO] CONSOLE: Stopping the server..[m
+2014-07-19 11:45:39 [INFO] Stopping server
+2014-07-19 11:45:39 [INFO] [TSG_WitherWater] Disabling TSG_WitherWater v1
+2014-07-19 11:45:39 [INFO] Saving YAML
+2014-07-19 11:45:39 [WARNING] DSCT: socket closed
+2014-07-19 11:45:39 [INFO] Saving players
+2014-07-19 11:45:39 [INFO] Closing listening thread
+2014-07-19 11:45:40 [INFO] §eionsto left the game.
+2014-07-19 11:45:40 [INFO] Saving worlds
+2014-07-19 11:45:40 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-19 11:45:40 [INFO] Saving chunks for level 'world_nether'/Nether
+2014-07-19 11:45:40 [INFO] Saving chunks for level 'world_the_end'/The End
+2014-07-19 11:45:40 [INFO] Stopping server
+2014-07-19 11:45:40 [INFO] Saving players
+2014-07-19 11:46:36 [INFO] Starting minecraft server version 1.6.4
+2014-07-19 11:46:36 [INFO] Loading properties
+2014-07-19 11:46:36 [INFO] Default game type: SURVIVAL
+2014-07-19 11:46:36 [INFO] Generating keypair
+2014-07-19 11:46:36 [INFO] Starting Minecraft server on *:25565
+2014-07-19 11:46:36 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-07-19 11:46:36 [INFO] [TSG_WitherWater] Loading TSG_WitherWater v1
+2014-07-19 11:46:36 [INFO] Preparing level "world"
+2014-07-19 11:46:36 [WARNING] ----- Bukkit Auto Updater -----
+2014-07-19 11:46:36 [WARNING] Your version of CraftBukkit is out of date. Version 1.6.4-R2.0 (build #2918) was released on Wed Oct 30 23:39:40 GMT 2013.
+2014-07-19 11:46:36 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/02389_1.6.4-R2.0/
+2014-07-19 11:46:36 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/02389_1.6.4-R2.0/craftbukkit.jar
+2014-07-19 11:46:36 [WARNING] ----- ------------------- -----
+2014-07-19 11:46:37 [INFO] Preparing start region for level 0 (Seed: -7114891627215597658)
+2014-07-19 11:46:37 [INFO] Preparing start region for level 1 (Seed: -7114891627215597658)
+2014-07-19 11:46:38 [INFO] Preparing start region for level 2 (Seed: -7114891627215597658)
+2014-07-19 11:46:38 [INFO] [TSG_WitherWater] Enabling TSG_WitherWater v1
+2014-07-19 11:46:38 [INFO] Loading YAML
+2014-07-19 11:46:38 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-07-19 11:46:38 [INFO] Done (1.601s)! For help, type "help" or "?"
+2014-07-19 11:46:51 [INFO] CONSOLE: Stopping the server..[m
+2014-07-19 11:46:51 [INFO] Stopping server
+2014-07-19 11:46:51 [INFO] [TSG_WitherWater] Disabling TSG_WitherWater v1
+2014-07-19 11:46:51 [INFO] Saving YAML
+2014-07-19 11:46:51 [WARNING] DSCT: socket closed
+2014-07-19 11:46:51 [INFO] Saving players
+2014-07-19 11:46:51 [INFO] Closing listening thread
+2014-07-19 11:46:51 [INFO] Saving worlds
+2014-07-19 11:46:51 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-19 11:46:52 [INFO] Saving chunks for level 'world_nether'/Nether
+2014-07-19 11:46:52 [INFO] Saving chunks for level 'world_the_end'/The End
+2014-07-19 11:46:52 [INFO] Stopping server
+2014-07-19 11:46:52 [INFO] Saving players
+2014-07-19 11:47:14 [INFO] Starting minecraft server version 1.6.4
+2014-07-19 11:47:14 [INFO] Loading properties
+2014-07-19 11:47:14 [INFO] Default game type: SURVIVAL
+2014-07-19 11:47:14 [INFO] Generating keypair
+2014-07-19 11:47:15 [INFO] Starting Minecraft server on *:25565
+2014-07-19 11:47:15 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-07-19 11:47:15 [INFO] [PirateCannon] Loading PirateCannon v1.0.5
+2014-07-19 11:47:15 [INFO] [TSG_WitherWater] Loading TSG_WitherWater v1
+2014-07-19 11:47:15 [INFO] [CompassTracker] Loading CompassTracker v1.2
+2014-07-19 11:47:15 [INFO] [iSail] Loading iSail v0.956
+2014-07-19 11:47:15 [INFO] Preparing level "world"
+2014-07-19 11:47:15 [WARNING] ----- Bukkit Auto Updater -----
+2014-07-19 11:47:15 [WARNING] Your version of CraftBukkit is out of date. Version 1.6.4-R2.0 (build #2918) was released on Wed Oct 30 23:39:40 GMT 2013.
+2014-07-19 11:47:15 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/02389_1.6.4-R2.0/
+2014-07-19 11:47:15 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/02389_1.6.4-R2.0/craftbukkit.jar
+2014-07-19 11:47:15 [WARNING] ----- ------------------- -----
+2014-07-19 11:47:15 [INFO] Preparing start region for level 0 (Seed: -7114891627215597658)
+2014-07-19 11:47:16 [INFO] Preparing start region for level 1 (Seed: -7114891627215597658)
+2014-07-19 11:47:16 [INFO] Preparing start region for level 2 (Seed: -7114891627215597658)
+2014-07-19 11:47:17 [INFO] [PirateCannon] Enabling PirateCannon v1.0.5
+2014-07-19 11:47:17 [INFO] [PirateCannon] PirateCannons Enabled!
+2014-07-19 11:47:17 [INFO] [PirateCannon] Error in config.yml: Unused Cannon id's could not be loaded!
+2014-07-19 11:47:17 [INFO] [TSG_WitherWater] Enabling TSG_WitherWater v1
+2014-07-19 11:47:17 [INFO] Loading YAML
+2014-07-19 11:47:17 [INFO] [CompassTracker] Enabling CompassTracker v1.2
+2014-07-19 11:47:17 [INFO] [CompassTracker] Enabled!
+2014-07-19 11:47:17 [INFO] [iSail] Enabling iSail v0.956
+2014-07-19 11:47:17 [INFO] [iSail] Cannons plugin not found, using default paramethers
+2014-07-19 11:47:17 [INFO] [iSail] loading configuration file config.yml
+2014-07-19 11:47:17 [INFO] [iSail] Successfully enabled!
+2014-07-19 11:47:17 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-07-19 11:47:17 [INFO] Done (1.622s)! For help, type "help" or "?"
+2014-07-19 11:47:19 [INFO] ionsto[/86.27.183.106:54690] logged in with entity id 276 at ([world] -111.25519677464288, 63.0, 273.36066685202303)
+2014-07-19 11:48:11 [INFO] mergedPLASMA32[/86.27.183.106:50660] logged in with entity id 1494 at ([world] -114.5, 64.0, 263.5)
+2014-07-19 11:48:45 [INFO] ionsto withered away
+2014-07-19 11:49:04 [INFO] ionsto withered away
+2014-07-19 11:49:23 [INFO] shadowtogepi[/94.6.44.221:49249] logged in with entity id 3279 at ([world] -117.5, 64.0, 264.5)
+2014-07-19 11:49:35 [INFO] <mergedPLASMA32> DONT GO IN THE WATER[m
+2014-07-19 11:49:37 [INFO] ionsto drowned
+2014-07-19 11:49:50 [INFO] <mergedPLASMA32> ESPECIALLY IN your unides[m
+2014-07-19 11:49:54 [INFO] <shadowtogepi> DOn't tell me what to do[m
+2014-07-19 11:49:57 [INFO] CONSOLE: Stopping the server..[m
+2014-07-19 11:49:57 [INFO] Stopping server
+2014-07-19 11:49:57 [INFO] [iSail] Disabling iSail v0.956
+2014-07-19 11:49:57 [INFO] [iSail] was disabled!
+2014-07-19 11:49:57 [INFO] [CompassTracker] Disabling CompassTracker v1.2
+2014-07-19 11:49:57 [INFO] [CompassTracker] Disabled!
+2014-07-19 11:49:57 [INFO] [TSG_WitherWater] Disabling TSG_WitherWater v1
+2014-07-19 11:49:58 [INFO] Saving YAML
+2014-07-19 11:49:58 [INFO] [PirateCannon] Disabling PirateCannon v1.0.5
+2014-07-19 11:49:58 [INFO] [PirateCannon] PirateCannons Disabled!
+2014-07-19 11:49:58 [INFO] Saving players
+2014-07-19 11:49:58 [WARNING] DSCT: socket closed
+2014-07-19 11:49:58 [INFO] Closing listening thread
+2014-07-19 11:49:58 [INFO] §emergedPLASMA32 left the game.
+2014-07-19 11:49:58 [INFO] §eionsto left the game.
+2014-07-19 11:49:58 [INFO] §eshadowtogepi left the game.
+2014-07-19 11:49:58 [INFO] Saving worlds
+2014-07-19 11:49:58 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-19 11:49:58 [INFO] Saving chunks for level 'world_nether'/Nether
+2014-07-19 11:49:58 [INFO] Saving chunks for level 'world_the_end'/The End
+2014-07-19 11:49:58 [INFO] Stopping server
+2014-07-19 11:50:16 [INFO] Starting minecraft server version 1.6.4
+2014-07-19 11:50:16 [INFO] Loading properties
+2014-07-19 11:50:16 [INFO] Default game type: SURVIVAL
+2014-07-19 11:50:16 [INFO] Generating keypair
+2014-07-19 11:50:17 [INFO] Starting Minecraft server on *:25565
+2014-07-19 11:50:17 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-07-19 11:50:17 [INFO] [PirateCannon] Loading PirateCannon v1.0.5
+2014-07-19 11:50:17 [INFO] [TSG_WitherWater] Loading TSG_WitherWater v1
+2014-07-19 11:50:17 [INFO] [CompassTracker] Loading CompassTracker v1.2
+2014-07-19 11:50:17 [INFO] [iSail] Loading iSail v0.956
+2014-07-19 11:50:17 [INFO] Preparing level "world"
+2014-07-19 11:50:17 [WARNING] ----- Bukkit Auto Updater -----
+2014-07-19 11:50:17 [WARNING] Your version of CraftBukkit is out of date. Version 1.6.4-R2.0 (build #2918) was released on Wed Oct 30 23:39:40 GMT 2013.
+2014-07-19 11:50:17 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/02389_1.6.4-R2.0/
+2014-07-19 11:50:17 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/02389_1.6.4-R2.0/craftbukkit.jar
+2014-07-19 11:50:17 [WARNING] ----- ------------------- -----
+2014-07-19 11:50:17 [INFO] Preparing start region for level 0 (Seed: -7114891627215597658)
+2014-07-19 11:50:18 [INFO] Preparing start region for level 1 (Seed: -7114891627215597658)
+2014-07-19 11:50:19 [INFO] Preparing start region for level 2 (Seed: -7114891627215597658)
+2014-07-19 11:50:19 [INFO] [PirateCannon] Enabling PirateCannon v1.0.5
+2014-07-19 11:50:19 [INFO] [PirateCannon] PirateCannons Enabled!
+2014-07-19 11:50:19 [INFO] [TSG_WitherWater] Enabling TSG_WitherWater v1
+2014-07-19 11:50:19 [INFO] Loading YAML
+2014-07-19 11:50:19 [INFO] [CompassTracker] Enabling CompassTracker v1.2
+2014-07-19 11:50:19 [INFO] [CompassTracker] Enabled!
+2014-07-19 11:50:19 [INFO] [iSail] Enabling iSail v0.956
+2014-07-19 11:50:19 [INFO] [iSail] Cannons plugin not found, using default paramethers
+2014-07-19 11:50:19 [INFO] [iSail] loading configuration file config.yml
+2014-07-19 11:50:19 [INFO] [iSail] Successfully enabled!
+2014-07-19 11:50:19 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-07-19 11:50:19 [INFO] Done (1.746s)! For help, type "help" or "?"
+2014-07-19 11:50:23 [INFO] ionsto[/86.27.183.106:54740] logged in with entity id 307 at ([world] -102.82367962788938, 57.0, 257.53553136911086)
+2014-07-19 11:50:41 [INFO] shadowtogepi[/94.6.44.221:49278] logged in with entity id 339 at ([world] -114.26225444753038, 63.0, 279.69999998807907)
+2014-07-19 11:51:14 [INFO] ionsto drowned
+2014-07-19 11:51:54 [INFO] mergedPLASMA32[/86.27.183.106:50821] logged in with entity id 4280 at ([world] -112.77398382526488, 63.0, 271.70532548585544)
+2014-07-19 11:52:03 [INFO] <mergedPLASMA32> Everybody do the flop[m
+2014-07-19 11:52:07 [INFO] shadowtogepi issued server command: /gamemode c
+2014-07-19 11:52:13 [INFO] ionsto issued server command: /stop
+2014-07-19 11:52:16 [INFO] CONSOLE: Stopping the server..[m
+2014-07-19 11:52:16 [INFO] Stopping server
+2014-07-19 11:52:16 [INFO] [iSail] Disabling iSail v0.956
+2014-07-19 11:52:16 [INFO] [iSail] was disabled!
+2014-07-19 11:52:16 [INFO] [CompassTracker] Disabling CompassTracker v1.2
+2014-07-19 11:52:16 [INFO] [CompassTracker] Disabled!
+2014-07-19 11:52:16 [INFO] [TSG_WitherWater] Disabling TSG_WitherWater v1
+2014-07-19 11:52:16 [INFO] Saving YAML
+2014-07-19 11:52:16 [INFO] [PirateCannon] Disabling PirateCannon v1.0.5
+2014-07-19 11:52:16 [INFO] [PirateCannon] PirateCannons Disabled!
+2014-07-19 11:52:16 [INFO] Saving players
+2014-07-19 11:52:16 [WARNING] DSCT: socket closed
+2014-07-19 11:52:16 [INFO] Closing listening thread
+2014-07-19 11:52:16 [INFO] §eshadowtogepi left the game.
+2014-07-19 11:52:16 [INFO] §emergedPLASMA32 left the game.
+2014-07-19 11:52:16 [INFO] §eionsto left the game.
+2014-07-19 11:52:17 [INFO] Saving worlds
+2014-07-19 11:52:17 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-19 11:52:18 [INFO] Saving chunks for level 'world_nether'/Nether
+2014-07-19 11:52:18 [INFO] Saving chunks for level 'world_the_end'/The End
+2014-07-19 11:52:18 [INFO] Stopping server
+2014-07-19 11:52:56 [INFO] Starting minecraft server version 1.6.4
+2014-07-19 11:52:56 [INFO] Loading properties
+2014-07-19 11:52:56 [INFO] Default game type: SURVIVAL
+2014-07-19 11:52:56 [INFO] Generating keypair
+2014-07-19 11:52:56 [INFO] Starting Minecraft server on *:25565
+2014-07-19 11:52:56 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-07-19 11:52:56 [INFO] [PirateCannon] Loading PirateCannon v1.0.5
+2014-07-19 11:52:56 [INFO] [TSG_WitherWater] Loading TSG_WitherWater v1
+2014-07-19 11:52:56 [INFO] [CompassTracker] Loading CompassTracker v1.2
+2014-07-19 11:52:56 [INFO] [iSail] Loading iSail v0.956
+2014-07-19 11:52:56 [INFO] Preparing level "world"
+2014-07-19 11:52:56 [WARNING] ----- Bukkit Auto Updater -----
+2014-07-19 11:52:56 [WARNING] Your version of CraftBukkit is out of date. Version 1.6.4-R2.0 (build #2918) was released on Wed Oct 30 23:39:40 GMT 2013.
+2014-07-19 11:52:56 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/02389_1.6.4-R2.0/
+2014-07-19 11:52:56 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/02389_1.6.4-R2.0/craftbukkit.jar
+2014-07-19 11:52:56 [WARNING] ----- ------------------- -----
+2014-07-19 11:52:56 [INFO] Preparing start region for level 0 (Seed: -7114891627215597658)
+2014-07-19 11:52:57 [INFO] Preparing start region for level 1 (Seed: -7114891627215597658)
+2014-07-19 11:52:58 [INFO] Preparing start region for level 2 (Seed: -7114891627215597658)
+2014-07-19 11:52:58 [INFO] [PirateCannon] Enabling PirateCannon v1.0.5
+2014-07-19 11:52:58 [INFO] [PirateCannon] PirateCannons Enabled!
+2014-07-19 11:52:58 [INFO] [TSG_WitherWater] Enabling TSG_WitherWater v1
+2014-07-19 11:52:58 [INFO] Loading YAML
+2014-07-19 11:52:58 [INFO] [CompassTracker] Enabling CompassTracker v1.2
+2014-07-19 11:52:58 [INFO] [CompassTracker] Enabled!
+2014-07-19 11:52:58 [INFO] [iSail] Enabling iSail v0.956
+2014-07-19 11:52:58 [INFO] [iSail] Cannons plugin not found, using default paramethers
+2014-07-19 11:52:58 [INFO] [iSail] loading configuration file config.yml
+2014-07-19 11:52:58 [INFO] [iSail] Successfully enabled!
+2014-07-19 11:52:58 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-07-19 11:52:58 [INFO] Done (1.741s)! For help, type "help" or "?"
+2014-07-19 11:52:59 [INFO] ionsto [/86.27.183.106:54801] lost connection
+2014-07-19 11:53:05 [INFO] shadowtogepi[/94.6.44.221:49379] logged in with entity id 302 at ([world] -146.69999998807907, 68.4531999984026, 179.11035410769728)
+2014-07-19 11:53:12 [INFO] ionsto[/86.27.183.106:54820] logged in with entity id 388 at ([world] -116.25432965207355, 65.0, 257.75811719968084)
+2014-07-19 11:53:28 [INFO] ionsto withered away
+2014-07-19 11:53:42 [INFO] ionsto withered away
+2014-07-19 11:53:50 [INFO] mergedPLASMA32[/86.27.183.106:50949] logged in with entity id 2066 at ([world] -118.71634802782546, 63.0, 278.30000001192093)
+2014-07-19 11:53:59 [INFO] ionsto withered away
+2014-07-19 11:54:19 [INFO] <shadowtogepi> Gibe saddle pliz[m
+2014-07-19 11:54:28 [INFO] ionsto was slain by mergedPLASMA32
+2014-07-19 11:54:33 [INFO] ionsto issued server command: /tp m
+2014-07-19 11:54:42 [INFO] ionsto withered away
+2014-07-19 11:55:34 [INFO] <mergedPLASMA32> where you at tim[m
+2014-07-19 11:55:41 [INFO] <shadowtogepi> Gibe saddle pliz[m
+2014-07-19 11:55:53 [INFO] mergedPLASMA32 issued server command: /op mer
+2014-07-19 11:55:56 [INFO] <mergedPLASMA32> im not op[m
+2014-07-19 11:56:05 [INFO] <shadowtogepi> :([m
+2014-07-19 11:56:26 [INFO] <mergedPLASMA32> where you at tim[m
+2014-07-19 11:56:28 [INFO] ionsto withered away
+2014-07-19 11:56:52 [INFO] <shadowtogepi> I shall not say until I get a saddle[m
+2014-07-19 11:57:22 [INFO] CONSOLE: Opped ionsto[m
+2014-07-19 11:57:24 [INFO] <mergedPLASMA32> stoping[m
+2014-07-19 11:57:25 [INFO] CONSOLE: Stopping the server..[m
+2014-07-19 11:57:25 [INFO] Stopping server
+2014-07-19 11:57:25 [INFO] [iSail] Disabling iSail v0.956
+2014-07-19 11:57:25 [INFO] [iSail] was disabled!
+2014-07-19 11:57:25 [INFO] [CompassTracker] Disabling CompassTracker v1.2
+2014-07-19 11:57:25 [INFO] [CompassTracker] Disabled!
+2014-07-19 11:57:25 [INFO] [TSG_WitherWater] Disabling TSG_WitherWater v1
+2014-07-19 11:57:25 [INFO] Saving YAML
+2014-07-19 11:57:25 [INFO] [PirateCannon] Disabling PirateCannon v1.0.5
+2014-07-19 11:57:25 [INFO] [PirateCannon] PirateCannons Disabled!
+2014-07-19 11:57:25 [INFO] Saving players
+2014-07-19 11:57:25 [WARNING] DSCT: socket closed
+2014-07-19 11:57:25 [INFO] Closing listening thread
+2014-07-19 11:57:25 [INFO] §eshadowtogepi left the game.
+2014-07-19 11:57:25 [INFO] §emergedPLASMA32 left the game.
+2014-07-19 11:57:25 [INFO] §eionsto left the game.
+2014-07-19 11:57:25 [INFO] Saving worlds
+2014-07-19 11:57:25 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-19 11:57:26 [INFO] Saving chunks for level 'world_nether'/Nether
+2014-07-19 11:57:26 [INFO] Saving chunks for level 'world_the_end'/The End

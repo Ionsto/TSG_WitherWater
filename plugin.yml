@@ -1,0 +1,4 @@
+name: TSG_WitherWater
+version: 1
+main: WitherWaterPlugin.WitherWaterPlugin
+commands:

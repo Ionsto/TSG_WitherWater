@@ -1,0 +1,58 @@
+WorldSettings:
+   World: world
+   OceanLevel: 62
+   LimitOfSinking: 33
+Limits:
+   EnabledSailingForSmallCrew: true
+   BlocksPerPlayer: 555
+   LocalRange: 500
+   MaxSizeOfShip: 5555
+   MinimalEcipage: 1
+Phase: 10
+Boarding:
+   Ports: true
+   Bridges: true
+   BridgesDistance: 10
+   BridgeableId: 
+   - 5
+   - 35
+   UnBridgeableId: 
+   - 35
+   Sleeping: true
+Sails:
+   SpeedOfRaising: 1
+   SpeedOfLowing: 1
+RealFire:
+   Enabled: true
+   #Disable fire fade blocking if fire have bugs on your server
+   #Anyway, FFBE parameter exists for blocking fire fade by rain only! On my server fire don't have bugs and rain can't to stop fire, but fire may to stop after few minutes! But if you have bug, just disable FFB ;)
+   FireFadeBlockingEnabled: false
+   SpeedOfBurning: 1
+RealQuench:
+   Enabled: true
+   Radius: 2
+   Height: 15
+Pomps:
+   Enabled: true
+   Clicks: 20
+   PompId: 33
+   WaterLimit: 555
+Vaults:
+   Enabled: true
+   BannedItems: 
+   - 7
+   - 8
+   - 9
+   - 10
+   - 11
+Climbing:
+   Enabled: true
+   Distance: 2
+   Id:
+   - 85
+Accidents: ##not implemented yet
+   OnMove: ##not implemented yet
+   OnTurn: ##not implemented yet
+   BreakWeakBlocksOnSinking: ##not implemented yet
+   KillPlayers: ##not implemented yet
+   Anchors: ##not implemented yet
