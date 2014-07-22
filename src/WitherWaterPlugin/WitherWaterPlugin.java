@@ -1,5 +1,7 @@
 package WitherWaterPlugin;
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -33,7 +35,7 @@ import org.yaml.snakeyaml.Yaml;
 
 public class WitherWaterPlugin extends JavaPlugin implements Listener{
 	int Power = 2;//Withering effect
-	boolean BoatsEffect = true;//Wheter you get effected in boat
+	boolean BoatEffect = true;//Wheter you get effected in boat
     @Override
     public void onEnable() {
     	this.getServer().getPluginManager().registerEvents(this, this);
@@ -61,7 +63,7 @@ public class WitherWaterPlugin extends JavaPlugin implements Listener{
         Material mat = player.getLocation().getBlock().getType();
         if(mat == Material.WATER || mat == Material.STATIONARY_WATER)
         {
-        	if(!BoatsEffect)
+        	if(!BoatEffect)
         	{
         		player.addPotionEffect(new PotionEffect(PotionEffectType.WITHER, 999 ,(int) Power));
         	}
@@ -79,28 +81,27 @@ public class WitherWaterPlugin extends JavaPlugin implements Listener{
         }
     }
     void SaveYAML(){
-    	System.out.println("Saving YAML");
-        Yaml yaml = new Yaml();
-        String output = yaml.dump(Power);
+    	System.out.println("Saving Configs");
         if(!getDataFolder().exists())
     	{
     		this.getDataFolder().mkdirs();
     	}
-        File weightfile = new File(getDataFolder(), "witherwater.yml");
-        if(!weightfile.exists())
+        File weightfile = new File(getDataFolder(), "witherwaterconfig.yml");
+        if(weightfile.exists())
         {
-    		try {
-				weightfile.createNewFile();
-			} catch (IOException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			}
+        	weightfile.delete();
+		}
+		try {
+			weightfile.createNewFile();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
     	try {
             FileWriter fw = new FileWriter(weightfile,false);
-            
             PrintWriter pw = new PrintWriter(fw);
-            pw.println(output);
+            pw.println(Power);
+            pw.println(BoatEffect);
              
             pw.flush();
              
@@ -112,22 +113,29 @@ public class WitherWaterPlugin extends JavaPlugin implements Listener{
     @SuppressWarnings("unchecked")
 	void LoadYAML()
     {
-    	System.out.println("Loading YAML");
+    	System.out.println("Loading Configs");
     	if(!getDataFolder().exists())
     	{
     		this.getDataFolder().mkdirs();
     	}
-    	File witherwaterfile = new File(getDataFolder(), "witherwaterconfig.yml");
-    	if(witherwaterfile.exists())
-    	{
-	    	try {
-	            Yaml yaml = new Yaml();
-	            witherwaterfile.createNewFile();
-	            FileReader fw = new FileReader(witherwaterfile);
-		    	Power = (int) Integer.parseInt((String) yaml.load(fw));
-	    	} catch (IOException e) {
-	    		e.printStackTrace();
+		try {
+			File witherwaterfile = new File(getDataFolder(), "witherwaterconfig.yml");
+			BufferedReader br = new BufferedReader(new FileReader(witherwaterfile));
+	    	if(witherwaterfile.exists())
+	    	{
+		    	try {
+		            witherwaterfile.createNewFile();
+		            FileReader fw = new FileReader(witherwaterfile);
+			    	Power = (int) Integer.parseInt(br.readLine());
+			    	BoatEffect = (boolean) Boolean.parseBoolean(br.readLine());
+		    	} catch (IOException e) {
+		    		e.printStackTrace();
+		    	}
 	    	}
-    	}
+		} catch (FileNotFoundException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+
     }
 }

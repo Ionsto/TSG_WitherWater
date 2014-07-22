@@ -1261,3 +1261,406 @@ java.lang.NullPointerException
 2014-07-19 13:22:10 [INFO] Saving chunks for level 'world_nether'/Nether
 2014-07-19 13:22:10 [INFO] Saving chunks for level 'world_the_end'/The End
 2014-07-19 13:22:10 [INFO] Stopping server
+2014-07-22 16:22:18 [INFO] Starting minecraft server version 1.6.4
+2014-07-22 16:22:18 [INFO] Loading properties
+2014-07-22 16:22:18 [INFO] Default game type: SURVIVAL
+2014-07-22 16:22:18 [INFO] Generating keypair
+2014-07-22 16:22:19 [INFO] Starting Minecraft server on *:25565
+2014-07-22 16:22:19 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-07-22 16:22:19 [WARNING] ----- Bukkit Auto Updater -----
+2014-07-22 16:22:19 [WARNING] Your version of CraftBukkit is out of date. Version 1.6.4-R2.0 (build #2918) was released on Wed Oct 30 23:39:40 GMT 2013.
+2014-07-22 16:22:19 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/02389_1.6.4-R2.0/
+2014-07-22 16:22:19 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/02389_1.6.4-R2.0/craftbukkit.jar
+2014-07-22 16:22:19 [WARNING] ----- ------------------- -----
+2014-07-22 16:22:23 [INFO] [PirateCannon] Loading PirateCannon v1.0.5
+2014-07-22 16:22:23 [INFO] [TSG_WitherWater] Loading TSG_WitherWater v1
+2014-07-22 16:22:23 [INFO] [CompassTracker] Loading CompassTracker v1.2
+2014-07-22 16:22:23 [INFO] [WorldEdit] Loading WorldEdit v5.6.2
+2014-07-22 16:22:23 [INFO] [iSail] Loading iSail v0.956
+2014-07-22 16:22:23 [INFO] Preparing level "world"
+2014-07-22 16:22:23 [INFO] Preparing start region for level 0 (Seed: -7114891627215597658)
+2014-07-22 16:22:24 [INFO] Preparing spawn area: 9%
+2014-07-22 16:22:25 [INFO] Preparing spawn area: 33%
+2014-07-22 16:22:26 [INFO] Preparing spawn area: 59%
+2014-07-22 16:22:27 [INFO] Preparing spawn area: 80%
+2014-07-22 16:22:28 [INFO] Preparing start region for level 1 (Seed: -7114891627215597658)
+2014-07-22 16:22:29 [INFO] Preparing spawn area: 50%
+2014-07-22 16:22:29 [INFO] Preparing start region for level 2 (Seed: -7114891627215597658)
+2014-07-22 16:22:30 [INFO] Preparing spawn area: 53%
+2014-07-22 16:22:30 [INFO] [PirateCannon] Enabling PirateCannon v1.0.5
+2014-07-22 16:22:30 [INFO] [PirateCannon] PirateCannons Enabled!
+2014-07-22 16:22:30 [INFO] [TSG_WitherWater] Enabling TSG_WitherWater v1
+2014-07-22 16:22:30 [INFO] Loading YAML
+2014-07-22 16:22:30 [INFO] [CompassTracker] Enabling CompassTracker v1.2
+2014-07-22 16:22:30 [INFO] [CompassTracker] Enabled!
+2014-07-22 16:22:30 [INFO] [WorldEdit] Enabling WorldEdit v5.6.2
+2014-07-22 16:22:31 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-07-22 16:22:31 [INFO] [iSail] Enabling iSail v0.956
+2014-07-22 16:22:31 [INFO] [iSail] Cannons plugin not found, using default paramethers
+2014-07-22 16:22:31 [INFO] [iSail] loading configuration file config.yml
+2014-07-22 16:22:31 [INFO] [iSail] Successfully enabled!
+2014-07-22 16:22:31 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-07-22 16:22:31 [INFO] Done (7.452s)! For help, type "help" or "?"
+2014-07-22 16:22:51 [INFO] ionsto[/86.27.183.106:62246] logged in with entity id 250 at ([world] -946.7431995673604, 65.0, 538.0028669918987)
+2014-07-22 16:22:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-07-22 16:23:10 [INFO] ionsto issued server command: /gamemode c
+2014-07-22 16:23:10 [INFO] ionsto: Set own game mode to CREATIVE mode[m
+2014-07-22 16:28:21 [INFO] CONSOLE: Stopping the server..[m
+2014-07-22 16:28:21 [INFO] Stopping server
+2014-07-22 16:28:21 [INFO] [iSail] Disabling iSail v0.956
+2014-07-22 16:28:21 [INFO] [iSail] was disabled!
+2014-07-22 16:28:21 [INFO] [WorldEdit] Disabling WorldEdit v5.6.2
+2014-07-22 16:28:21 [INFO] [CompassTracker] Disabling CompassTracker v1.2
+2014-07-22 16:28:21 [INFO] [CompassTracker] Disabled!
+2014-07-22 16:28:21 [INFO] [TSG_WitherWater] Disabling TSG_WitherWater v1
+2014-07-22 16:28:21 [INFO] Saving YAML
+2014-07-22 16:28:21 [INFO] [PirateCannon] Disabling PirateCannon v1.0.5
+2014-07-22 16:28:21 [INFO] [PirateCannon] PirateCannons Disabled!
+2014-07-22 16:28:21 [INFO] Saving players
+2014-07-22 16:28:21 [WARNING] DSCT: socket closed
+2014-07-22 16:28:21 [INFO] Closing listening thread
+2014-07-22 16:28:21 [INFO] §eionsto left the game.
+2014-07-22 16:28:21 [INFO] Saving worlds
+2014-07-22 16:28:21 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-22 16:28:22 [INFO] Saving chunks for level 'world_nether'/Nether
+2014-07-22 16:28:22 [INFO] Saving chunks for level 'world_the_end'/The End
+2014-07-22 16:28:22 [INFO] Stopping server
+2014-07-22 16:28:42 [INFO] Starting minecraft server version 1.6.4
+2014-07-22 16:28:42 [INFO] Loading properties
+2014-07-22 16:28:42 [INFO] Default game type: SURVIVAL
+2014-07-22 16:28:42 [INFO] Generating keypair
+2014-07-22 16:28:42 [INFO] Starting Minecraft server on *:25565
+2014-07-22 16:28:43 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-07-22 16:28:43 [INFO] [PirateCannon] Loading PirateCannon v1.0.5
+2014-07-22 16:28:43 [INFO] [TSG_WitherWater] Loading TSG_WitherWater v1
+2014-07-22 16:28:43 [INFO] [CompassTracker] Loading CompassTracker v1.2
+2014-07-22 16:28:43 [INFO] [WorldEdit] Loading WorldEdit v5.6.2
+2014-07-22 16:28:43 [INFO] [iSail] Loading iSail v0.956
+2014-07-22 16:28:43 [INFO] Preparing level "world"
+2014-07-22 16:28:43 [WARNING] ----- Bukkit Auto Updater -----
+2014-07-22 16:28:43 [WARNING] Your version of CraftBukkit is out of date. Version 1.6.4-R2.0 (build #2918) was released on Wed Oct 30 23:39:40 GMT 2013.
+2014-07-22 16:28:43 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/02389_1.6.4-R2.0/
+2014-07-22 16:28:43 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/02389_1.6.4-R2.0/craftbukkit.jar
+2014-07-22 16:28:43 [WARNING] ----- ------------------- -----
+2014-07-22 16:28:43 [INFO] Preparing start region for level 0 (Seed: -7114891627215597658)
+2014-07-22 16:28:44 [INFO] Preparing start region for level 1 (Seed: -7114891627215597658)
+2014-07-22 16:28:44 [INFO] Preparing start region for level 2 (Seed: -7114891627215597658)
+2014-07-22 16:28:44 [INFO] [PirateCannon] Enabling PirateCannon v1.0.5
+2014-07-22 16:28:44 [INFO] [PirateCannon] PirateCannons Enabled!
+2014-07-22 16:28:44 [INFO] [TSG_WitherWater] Enabling TSG_WitherWater v1
+2014-07-22 16:28:44 [INFO] Loading Configs
+2014-07-22 16:28:44 [SEVERE] java.io.FileNotFoundException: plugins\TSG_WitherWater\witherwaterconfig.yml (The system cannot find the file specified)
+2014-07-22 16:28:44 [SEVERE] 	at java.io.FileInputStream.open(Native Method)
+2014-07-22 16:28:44 [SEVERE] 	at java.io.FileInputStream.<init>(Unknown Source)
+2014-07-22 16:28:44 [SEVERE] 	at java.io.FileReader.<init>(Unknown Source)
+2014-07-22 16:28:44 [SEVERE] 	at WitherWaterPlugin.WitherWaterPlugin.LoadYAML(WitherWaterPlugin.java:123)
+2014-07-22 16:28:44 [SEVERE] 	at WitherWaterPlugin.WitherWaterPlugin.onEnable(WitherWaterPlugin.java:42)
+2014-07-22 16:28:44 [SEVERE] 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+2014-07-22 16:28:44 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+2014-07-22 16:28:44 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+2014-07-22 16:28:44 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.loadPlugin(CraftServer.java:284)
+2014-07-22 16:28:44 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.enablePlugins(CraftServer.java:266)
+2014-07-22 16:28:44 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.l(MinecraftServer.java:315)
+2014-07-22 16:28:44 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.f(MinecraftServer.java:292)
+2014-07-22 16:28:44 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.a(MinecraftServer.java:252)
+2014-07-22 16:28:44 [SEVERE] 	at net.minecraft.server.v1_6_R3.DedicatedServer.init(DedicatedServer.java:152)
+2014-07-22 16:28:44 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:393)
+2014-07-22 16:28:44 [SEVERE] 	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+2014-07-22 16:28:44 [INFO] [CompassTracker] Enabling CompassTracker v1.2
+2014-07-22 16:28:44 [INFO] [CompassTracker] Enabled!
+2014-07-22 16:28:44 [INFO] [WorldEdit] Enabling WorldEdit v5.6.2
+2014-07-22 16:28:44 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-07-22 16:28:45 [INFO] [iSail] Enabling iSail v0.956
+2014-07-22 16:28:45 [INFO] [iSail] Cannons plugin not found, using default paramethers
+2014-07-22 16:28:45 [INFO] [iSail] loading configuration file config.yml
+2014-07-22 16:28:45 [INFO] [iSail] Successfully enabled!
+2014-07-22 16:28:45 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-07-22 16:28:45 [INFO] Done (1.818s)! For help, type "help" or "?"
+2014-07-22 16:29:05 [INFO] ionsto[/86.27.183.106:62434] logged in with entity id 247 at ([world] -947.6763410605473, 65.0, 541.3769236524059)
+2014-07-22 16:29:11 [INFO] ionsto issued server command: /stop
+2014-07-22 16:29:11 [INFO] ionsto: Stopping the server..[m
+2014-07-22 16:29:11 [INFO] Stopping server
+2014-07-22 16:29:11 [INFO] [iSail] Disabling iSail v0.956
+2014-07-22 16:29:11 [INFO] [iSail] was disabled!
+2014-07-22 16:29:11 [INFO] [WorldEdit] Disabling WorldEdit v5.6.2
+2014-07-22 16:29:11 [INFO] [CompassTracker] Disabling CompassTracker v1.2
+2014-07-22 16:29:11 [INFO] [CompassTracker] Disabled!
+2014-07-22 16:29:11 [INFO] [TSG_WitherWater] Disabling TSG_WitherWater v1
+2014-07-22 16:29:11 [INFO] Saving Configs
+2014-07-22 16:29:11 [INFO] [PirateCannon] Disabling PirateCannon v1.0.5
+2014-07-22 16:29:11 [INFO] [PirateCannon] PirateCannons Disabled!
+2014-07-22 16:29:11 [INFO] Saving players
+2014-07-22 16:29:11 [WARNING] DSCT: socket closed
+2014-07-22 16:29:11 [INFO] Closing listening thread
+2014-07-22 16:29:11 [INFO] §eionsto left the game.
+2014-07-22 16:29:11 [INFO] Saving worlds
+2014-07-22 16:29:11 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-22 16:29:11 [INFO] Saving chunks for level 'world_nether'/Nether
+2014-07-22 16:29:11 [INFO] Saving chunks for level 'world_the_end'/The End
+2014-07-22 16:29:17 [INFO] Starting minecraft server version 1.6.4
+2014-07-22 16:29:17 [INFO] Loading properties
+2014-07-22 16:29:17 [INFO] Default game type: SURVIVAL
+2014-07-22 16:29:17 [INFO] Generating keypair
+2014-07-22 16:29:18 [INFO] Starting Minecraft server on *:25565
+2014-07-22 16:29:18 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-07-22 16:29:18 [INFO] [PirateCannon] Loading PirateCannon v1.0.5
+2014-07-22 16:29:18 [INFO] [TSG_WitherWater] Loading TSG_WitherWater v1
+2014-07-22 16:29:18 [INFO] [CompassTracker] Loading CompassTracker v1.2
+2014-07-22 16:29:18 [INFO] [WorldEdit] Loading WorldEdit v5.6.2
+2014-07-22 16:29:18 [INFO] [iSail] Loading iSail v0.956
+2014-07-22 16:29:18 [WARNING] ----- Bukkit Auto Updater -----
+2014-07-22 16:29:18 [WARNING] Your version of CraftBukkit is out of date. Version 1.6.4-R2.0 (build #2918) was released on Wed Oct 30 23:39:40 GMT 2013.
+2014-07-22 16:29:18 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/02389_1.6.4-R2.0/
+2014-07-22 16:29:18 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/02389_1.6.4-R2.0/craftbukkit.jar
+2014-07-22 16:29:18 [WARNING] ----- ------------------- -----
+2014-07-22 16:29:18 [INFO] Preparing level "world"
+2014-07-22 16:29:18 [INFO] Preparing start region for level 0 (Seed: -7114891627215597658)
+2014-07-22 16:29:19 [INFO] Preparing start region for level 1 (Seed: -7114891627215597658)
+2014-07-22 16:29:19 [INFO] Preparing start region for level 2 (Seed: -7114891627215597658)
+2014-07-22 16:29:19 [INFO] [PirateCannon] Enabling PirateCannon v1.0.5
+2014-07-22 16:29:19 [INFO] [PirateCannon] PirateCannons Enabled!
+2014-07-22 16:29:20 [INFO] [TSG_WitherWater] Enabling TSG_WitherWater v1
+2014-07-22 16:29:20 [INFO] Loading Configs
+2014-07-22 16:29:20 [SEVERE] java.io.FileNotFoundException: plugins\TSG_WitherWater\witherwaterconfig.yml (The system cannot find the file specified)
+2014-07-22 16:29:20 [SEVERE] 	at java.io.FileInputStream.open(Native Method)
+2014-07-22 16:29:20 [SEVERE] 	at java.io.FileInputStream.<init>(Unknown Source)
+2014-07-22 16:29:20 [SEVERE] 	at java.io.FileReader.<init>(Unknown Source)
+2014-07-22 16:29:20 [SEVERE] 	at WitherWaterPlugin.WitherWaterPlugin.LoadYAML(WitherWaterPlugin.java:123)
+2014-07-22 16:29:20 [SEVERE] 	at WitherWaterPlugin.WitherWaterPlugin.onEnable(WitherWaterPlugin.java:42)
+2014-07-22 16:29:20 [SEVERE] 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+2014-07-22 16:29:20 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+2014-07-22 16:29:20 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+2014-07-22 16:29:20 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.loadPlugin(CraftServer.java:284)
+2014-07-22 16:29:20 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.enablePlugins(CraftServer.java:266)
+2014-07-22 16:29:20 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.l(MinecraftServer.java:315)
+2014-07-22 16:29:20 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.f(MinecraftServer.java:292)
+2014-07-22 16:29:20 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.a(MinecraftServer.java:252)
+2014-07-22 16:29:20 [SEVERE] 	at net.minecraft.server.v1_6_R3.DedicatedServer.init(DedicatedServer.java:152)
+2014-07-22 16:29:20 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:393)
+2014-07-22 16:29:20 [SEVERE] 	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+2014-07-22 16:29:20 [INFO] [CompassTracker] Enabling CompassTracker v1.2
+2014-07-22 16:29:20 [INFO] [CompassTracker] Enabled!
+2014-07-22 16:29:20 [INFO] [WorldEdit] Enabling WorldEdit v5.6.2
+2014-07-22 16:29:20 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-07-22 16:29:20 [INFO] [iSail] Enabling iSail v0.956
+2014-07-22 16:29:20 [INFO] [iSail] Cannons plugin not found, using default paramethers
+2014-07-22 16:29:20 [INFO] [iSail] loading configuration file config.yml
+2014-07-22 16:29:20 [INFO] [iSail] Successfully enabled!
+2014-07-22 16:29:20 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-07-22 16:29:20 [INFO] Done (1.878s)! For help, type "help" or "?"
+2014-07-22 16:29:47 [INFO] CONSOLE: Stopping the server..[m
+2014-07-22 16:29:47 [INFO] Stopping server
+2014-07-22 16:29:47 [INFO] [iSail] Disabling iSail v0.956
+2014-07-22 16:29:47 [INFO] [iSail] was disabled!
+2014-07-22 16:29:47 [INFO] [WorldEdit] Disabling WorldEdit v5.6.2
+2014-07-22 16:29:47 [INFO] [CompassTracker] Disabling CompassTracker v1.2
+2014-07-22 16:29:47 [INFO] [CompassTracker] Disabled!
+2014-07-22 16:29:47 [INFO] [TSG_WitherWater] Disabling TSG_WitherWater v1
+2014-07-22 16:29:47 [INFO] Saving Configs
+2014-07-22 16:29:47 [INFO] [PirateCannon] Disabling PirateCannon v1.0.5
+2014-07-22 16:29:47 [INFO] [PirateCannon] PirateCannons Disabled!
+2014-07-22 16:29:47 [INFO] Saving players
+2014-07-22 16:29:47 [WARNING] DSCT: socket closed
+2014-07-22 16:29:47 [INFO] Saving worlds
+2014-07-22 16:29:47 [INFO] Closing listening thread
+2014-07-22 16:29:47 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-22 16:29:47 [INFO] Saving chunks for level 'world_nether'/Nether
+2014-07-22 16:29:47 [INFO] Saving chunks for level 'world_the_end'/The End
+2014-07-22 16:30:09 [INFO] Starting minecraft server version 1.6.4
+2014-07-22 16:30:09 [INFO] Loading properties
+2014-07-22 16:30:09 [INFO] Default game type: SURVIVAL
+2014-07-22 16:30:09 [INFO] Generating keypair
+2014-07-22 16:30:09 [INFO] Starting Minecraft server on *:25565
+2014-07-22 16:30:09 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-07-22 16:30:10 [INFO] [PirateCannon] Loading PirateCannon v1.0.5
+2014-07-22 16:30:10 [INFO] [TSG_WitherWater] Loading TSG_WitherWater v1
+2014-07-22 16:30:10 [INFO] [CompassTracker] Loading CompassTracker v1.2
+2014-07-22 16:30:10 [INFO] [WorldEdit] Loading WorldEdit v5.6.2
+2014-07-22 16:30:10 [INFO] [iSail] Loading iSail v0.956
+2014-07-22 16:30:10 [INFO] Preparing level "world"
+2014-07-22 16:30:10 [WARNING] ----- Bukkit Auto Updater -----
+2014-07-22 16:30:10 [WARNING] Your version of CraftBukkit is out of date. Version 1.6.4-R2.0 (build #2918) was released on Wed Oct 30 23:39:40 GMT 2013.
+2014-07-22 16:30:10 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/02389_1.6.4-R2.0/
+2014-07-22 16:30:10 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/02389_1.6.4-R2.0/craftbukkit.jar
+2014-07-22 16:30:10 [WARNING] ----- ------------------- -----
+2014-07-22 16:30:10 [INFO] Preparing start region for level 0 (Seed: -7114891627215597658)
+2014-07-22 16:30:10 [INFO] Preparing start region for level 1 (Seed: -7114891627215597658)
+2014-07-22 16:30:11 [INFO] Preparing start region for level 2 (Seed: -7114891627215597658)
+2014-07-22 16:30:11 [INFO] [PirateCannon] Enabling PirateCannon v1.0.5
+2014-07-22 16:30:11 [INFO] [PirateCannon] PirateCannons Enabled!
+2014-07-22 16:30:11 [INFO] [TSG_WitherWater] Enabling TSG_WitherWater v1
+2014-07-22 16:30:11 [INFO] Loading Configs
+2014-07-22 16:30:11 [SEVERE] java.io.FileNotFoundException: plugins\TSG_WitherWater\witherwaterconfig.yml (The system cannot find the file specified)
+2014-07-22 16:30:11 [SEVERE] 	at java.io.FileInputStream.open(Native Method)
+2014-07-22 16:30:11 [SEVERE] 	at java.io.FileInputStream.<init>(Unknown Source)
+2014-07-22 16:30:11 [SEVERE] 	at java.io.FileReader.<init>(Unknown Source)
+2014-07-22 16:30:11 [SEVERE] 	at WitherWaterPlugin.WitherWaterPlugin.LoadYAML(WitherWaterPlugin.java:123)
+2014-07-22 16:30:11 [SEVERE] 	at WitherWaterPlugin.WitherWaterPlugin.onEnable(WitherWaterPlugin.java:42)
+2014-07-22 16:30:11 [SEVERE] 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+2014-07-22 16:30:11 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+2014-07-22 16:30:11 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+2014-07-22 16:30:11 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.loadPlugin(CraftServer.java:284)
+2014-07-22 16:30:11 [SEVERE] 	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.enablePlugins(CraftServer.java:266)
+2014-07-22 16:30:11 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.l(MinecraftServer.java:315)
+2014-07-22 16:30:11 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.f(MinecraftServer.java:292)
+2014-07-22 16:30:11 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.a(MinecraftServer.java:252)
+2014-07-22 16:30:11 [SEVERE] 	at net.minecraft.server.v1_6_R3.DedicatedServer.init(DedicatedServer.java:152)
+2014-07-22 16:30:11 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:393)
+2014-07-22 16:30:11 [SEVERE] 	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+2014-07-22 16:30:11 [INFO] [CompassTracker] Enabling CompassTracker v1.2
+2014-07-22 16:30:11 [INFO] [CompassTracker] Enabled!
+2014-07-22 16:30:11 [INFO] [WorldEdit] Enabling WorldEdit v5.6.2
+2014-07-22 16:30:11 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-07-22 16:30:11 [INFO] [iSail] Enabling iSail v0.956
+2014-07-22 16:30:11 [INFO] [iSail] Cannons plugin not found, using default paramethers
+2014-07-22 16:30:11 [INFO] [iSail] loading configuration file config.yml
+2014-07-22 16:30:11 [INFO] [iSail] Successfully enabled!
+2014-07-22 16:30:11 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-07-22 16:30:11 [INFO] Done (1.927s)! For help, type "help" or "?"
+2014-07-22 16:38:13 [INFO] CONSOLE: Stopping the server..[m
+2014-07-22 16:38:13 [INFO] Stopping server
+2014-07-22 16:38:13 [INFO] [iSail] Disabling iSail v0.956
+2014-07-22 16:38:13 [INFO] [iSail] was disabled!
+2014-07-22 16:38:13 [INFO] [WorldEdit] Disabling WorldEdit v5.6.2
+2014-07-22 16:38:13 [INFO] [CompassTracker] Disabling CompassTracker v1.2
+2014-07-22 16:38:13 [INFO] [CompassTracker] Disabled!
+2014-07-22 16:38:13 [INFO] [TSG_WitherWater] Disabling TSG_WitherWater v1
+2014-07-22 16:38:13 [INFO] Saving Configs
+2014-07-22 16:38:13 [INFO] [PirateCannon] Disabling PirateCannon v1.0.5
+2014-07-22 16:38:13 [INFO] [PirateCannon] PirateCannons Disabled!
+2014-07-22 16:38:13 [INFO] Saving players
+2014-07-22 16:38:13 [WARNING] DSCT: socket closed
+2014-07-22 16:38:13 [INFO] Saving worlds
+2014-07-22 16:38:13 [INFO] Closing listening thread
+2014-07-22 16:38:13 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-22 16:38:13 [INFO] Saving chunks for level 'world_nether'/Nether
+2014-07-22 16:38:13 [INFO] Saving chunks for level 'world_the_end'/The End
+2014-07-22 16:38:13 [INFO] Stopping server
+2014-07-22 16:38:13 [INFO] Saving players
+2014-07-22 16:38:19 [INFO] Starting minecraft server version 1.6.4
+2014-07-22 16:38:19 [INFO] Loading properties
+2014-07-22 16:38:19 [INFO] Default game type: SURVIVAL
+2014-07-22 16:38:19 [INFO] Generating keypair
+2014-07-22 16:38:19 [INFO] Starting Minecraft server on *:25565
+2014-07-22 16:38:20 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-07-22 16:38:20 [INFO] [PirateCannon] Loading PirateCannon v1.0.5
+2014-07-22 16:38:20 [INFO] [TSG_WitherWater] Loading TSG_WitherWater v1
+2014-07-22 16:38:20 [INFO] [CompassTracker] Loading CompassTracker v1.2
+2014-07-22 16:38:20 [INFO] [WorldEdit] Loading WorldEdit v5.6.2
+2014-07-22 16:38:20 [INFO] [iSail] Loading iSail v0.956
+2014-07-22 16:38:20 [INFO] Preparing level "world"
+2014-07-22 16:38:20 [WARNING] ----- Bukkit Auto Updater -----
+2014-07-22 16:38:20 [WARNING] Your version of CraftBukkit is out of date. Version 1.6.4-R2.0 (build #2918) was released on Wed Oct 30 23:39:40 GMT 2013.
+2014-07-22 16:38:20 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/02389_1.6.4-R2.0/
+2014-07-22 16:38:20 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/02389_1.6.4-R2.0/craftbukkit.jar
+2014-07-22 16:38:20 [WARNING] ----- ------------------- -----
+2014-07-22 16:38:20 [INFO] Preparing start region for level 0 (Seed: -7114891627215597658)
+2014-07-22 16:38:21 [INFO] Preparing start region for level 1 (Seed: -7114891627215597658)
+2014-07-22 16:38:21 [INFO] Preparing start region for level 2 (Seed: -7114891627215597658)
+2014-07-22 16:38:21 [INFO] [PirateCannon] Enabling PirateCannon v1.0.5
+2014-07-22 16:38:21 [INFO] [PirateCannon] PirateCannons Enabled!
+2014-07-22 16:38:21 [INFO] [TSG_WitherWater] Enabling TSG_WitherWater v1
+2014-07-22 16:38:21 [INFO] Loading Configs
+2014-07-22 16:38:21 [INFO] [CompassTracker] Enabling CompassTracker v1.2
+2014-07-22 16:38:21 [INFO] [CompassTracker] Enabled!
+2014-07-22 16:38:21 [INFO] [WorldEdit] Enabling WorldEdit v5.6.2
+2014-07-22 16:38:21 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-07-22 16:38:22 [INFO] [iSail] Enabling iSail v0.956
+2014-07-22 16:38:22 [INFO] [iSail] Cannons plugin not found, using default paramethers
+2014-07-22 16:38:22 [INFO] [iSail] loading configuration file config.yml
+2014-07-22 16:38:22 [INFO] [iSail] Successfully enabled!
+2014-07-22 16:38:22 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-07-22 16:38:22 [INFO] Done (1.908s)! For help, type "help" or "?"
+2014-07-22 16:38:32 [INFO] ionsto[/86.27.183.106:62589] logged in with entity id 247 at ([world] -943.729339027949, 65.0, 540.5163040763271)
+2014-07-22 16:38:36 [SEVERE] No TreeType mapping for TreeGenerator.TreeType.ACACIA
+2014-07-22 16:38:36 [SEVERE] No TreeType mapping for TreeGenerator.TreeType.DARK_OAK
+2014-07-22 16:38:36 [SEVERE] No TreeType mapping for TreeGenerator.TreeType.MEGA_REDWOOD
+2014-07-22 16:38:36 [SEVERE] No TreeType mapping for TreeGenerator.TreeType.TALL_BIRCH
+2014-07-22 16:38:37 [INFO] [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_164
+2014-07-22 16:38:39 [INFO] ionsto issued server command: /gamemode s
+2014-07-22 16:38:39 [INFO] ionsto: Set own game mode to SURVIVAL mode[m
+2014-07-22 16:38:42 [INFO] ionsto withered away
+2014-07-22 16:38:51 [INFO] ionsto issued server command: /stop
+2014-07-22 16:38:51 [INFO] ionsto: Stopping the server..[m
+2014-07-22 16:38:51 [INFO] Stopping server
+2014-07-22 16:38:51 [INFO] [iSail] Disabling iSail v0.956
+2014-07-22 16:38:51 [INFO] [iSail] was disabled!
+2014-07-22 16:38:51 [INFO] [WorldEdit] Disabling WorldEdit v5.6.2
+2014-07-22 16:38:51 [INFO] [CompassTracker] Disabling CompassTracker v1.2
+2014-07-22 16:38:51 [INFO] [CompassTracker] Disabled!
+2014-07-22 16:38:51 [INFO] [TSG_WitherWater] Disabling TSG_WitherWater v1
+2014-07-22 16:38:51 [INFO] Saving Configs
+2014-07-22 16:38:51 [INFO] [PirateCannon] Disabling PirateCannon v1.0.5
+2014-07-22 16:38:52 [INFO] [PirateCannon] PirateCannons Disabled!
+2014-07-22 16:38:52 [INFO] Saving players
+2014-07-22 16:38:52 [WARNING] DSCT: socket closed
+2014-07-22 16:38:52 [INFO] Closing listening thread
+2014-07-22 16:38:52 [INFO] §eionsto left the game.
+2014-07-22 16:38:52 [INFO] Saving worlds
+2014-07-22 16:38:52 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-22 16:38:52 [INFO] Saving chunks for level 'world_nether'/Nether
+2014-07-22 16:38:52 [INFO] Saving chunks for level 'world_the_end'/The End
+2014-07-22 16:38:52 [INFO] Stopping server
+2014-07-22 16:39:48 [INFO] Starting minecraft server version 1.6.4
+2014-07-22 16:39:48 [INFO] Loading properties
+2014-07-22 16:39:48 [INFO] Default game type: SURVIVAL
+2014-07-22 16:39:48 [INFO] Generating keypair
+2014-07-22 16:39:49 [INFO] Starting Minecraft server on *:25565
+2014-07-22 16:39:49 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-07-22 16:39:49 [INFO] [PirateCannon] Loading PirateCannon v1.0.5
+2014-07-22 16:39:49 [INFO] [TSG_WitherWater] Loading TSG_WitherWater v1
+2014-07-22 16:39:49 [INFO] [CompassTracker] Loading CompassTracker v1.2
+2014-07-22 16:39:49 [INFO] [WorldEdit] Loading WorldEdit v5.6.2
+2014-07-22 16:39:49 [INFO] [iSail] Loading iSail v0.956
+2014-07-22 16:39:49 [INFO] Preparing level "world"
+2014-07-22 16:39:49 [WARNING] ----- Bukkit Auto Updater -----
+2014-07-22 16:39:49 [WARNING] Your version of CraftBukkit is out of date. Version 1.6.4-R2.0 (build #2918) was released on Wed Oct 30 23:39:40 GMT 2013.
+2014-07-22 16:39:49 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/02389_1.6.4-R2.0/
+2014-07-22 16:39:49 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/02389_1.6.4-R2.0/craftbukkit.jar
+2014-07-22 16:39:49 [WARNING] ----- ------------------- -----
+2014-07-22 16:39:49 [INFO] Preparing start region for level 0 (Seed: -7114891627215597658)
+2014-07-22 16:39:50 [INFO] Preparing start region for level 1 (Seed: -7114891627215597658)
+2014-07-22 16:39:50 [INFO] Preparing start region for level 2 (Seed: -7114891627215597658)
+2014-07-22 16:39:50 [INFO] [PirateCannon] Enabling PirateCannon v1.0.5
+2014-07-22 16:39:50 [INFO] [PirateCannon] PirateCannons Enabled!
+2014-07-22 16:39:50 [INFO] [TSG_WitherWater] Enabling TSG_WitherWater v1
+2014-07-22 16:39:50 [INFO] Loading Configs
+2014-07-22 16:39:50 [INFO] [CompassTracker] Enabling CompassTracker v1.2
+2014-07-22 16:39:50 [INFO] [CompassTracker] Enabled!
+2014-07-22 16:39:50 [INFO] [WorldEdit] Enabling WorldEdit v5.6.2
+2014-07-22 16:39:50 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-07-22 16:39:50 [INFO] [iSail] Enabling iSail v0.956
+2014-07-22 16:39:51 [INFO] [iSail] Cannons plugin not found, using default paramethers
+2014-07-22 16:39:51 [INFO] [iSail] loading configuration file config.yml
+2014-07-22 16:39:51 [INFO] [iSail] Successfully enabled!
+2014-07-22 16:39:51 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-07-22 16:39:51 [INFO] Done (1.715s)! For help, type "help" or "?"
+2014-07-22 16:39:52 [INFO] ionsto[/86.27.183.106:62612] logged in with entity id 265 at ([world] -112.89338039226115, 64.0, 263.0387149638075)
+2014-07-22 16:40:02 [INFO] ionsto issued server command: /give ionsto BOAT
+2014-07-22 16:40:02 [INFO] ionsto: Gave ionsto some 333 (BOAT)[m
+2014-07-22 16:40:03 [SEVERE] No TreeType mapping for TreeGenerator.TreeType.ACACIA
+2014-07-22 16:40:03 [SEVERE] No TreeType mapping for TreeGenerator.TreeType.DARK_OAK
+2014-07-22 16:40:03 [SEVERE] No TreeType mapping for TreeGenerator.TreeType.MEGA_REDWOOD
+2014-07-22 16:40:03 [SEVERE] No TreeType mapping for TreeGenerator.TreeType.TALL_BIRCH
+2014-07-22 16:40:03 [INFO] [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_164
+2014-07-22 16:40:23 [INFO] ionsto issued server command: /stop
+2014-07-22 16:40:23 [INFO] ionsto: Stopping the server..[m
+2014-07-22 16:40:23 [INFO] Stopping server
+2014-07-22 16:40:23 [INFO] [iSail] Disabling iSail v0.956
+2014-07-22 16:40:23 [INFO] [iSail] was disabled!
+2014-07-22 16:40:23 [INFO] [WorldEdit] Disabling WorldEdit v5.6.2
+2014-07-22 16:40:23 [INFO] [CompassTracker] Disabling CompassTracker v1.2
+2014-07-22 16:40:23 [INFO] [CompassTracker] Disabled!
+2014-07-22 16:40:23 [INFO] [TSG_WitherWater] Disabling TSG_WitherWater v1
+2014-07-22 16:40:23 [INFO] Saving Configs
+2014-07-22 16:40:23 [INFO] [PirateCannon] Disabling PirateCannon v1.0.5
+2014-07-22 16:40:23 [INFO] [PirateCannon] PirateCannons Disabled!
+2014-07-22 16:40:23 [INFO] Saving players
+2014-07-22 16:40:23 [WARNING] DSCT: socket closed
+2014-07-22 16:40:23 [INFO] Closing listening thread
+2014-07-22 16:40:23 [INFO] §eionsto left the game.
+2014-07-22 16:40:23 [INFO] Saving worlds
+2014-07-22 16:40:23 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-22 16:40:23 [INFO] Saving chunks for level 'world_nether'/Nether
+2014-07-22 16:40:23 [INFO] Saving chunks for level 'world_the_end'/The End
+2014-07-22 16:40:23 [INFO] Stopping server
