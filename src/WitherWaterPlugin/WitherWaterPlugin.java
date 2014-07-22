@@ -9,6 +9,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.logging.Level;
 
+import net.minecraft.server.v1_6_R3.EntityBoat;
+
 import org.bukkit.inventory.FurnaceRecipe;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.PlayerInventory;
@@ -30,7 +32,8 @@ import org.bukkit.potion.PotionEffectType;
 import org.yaml.snakeyaml.Yaml;
 
 public class WitherWaterPlugin extends JavaPlugin implements Listener{
-	int Power = 2;
+	int Power = 2;//Withering effect
+	boolean BoatsEffect = true;//Wheter you get effected in boat
     @Override
     public void onEnable() {
     	this.getServer().getPluginManager().registerEvents(this, this);
@@ -58,7 +61,17 @@ public class WitherWaterPlugin extends JavaPlugin implements Listener{
         Material mat = player.getLocation().getBlock().getType();
         if(mat == Material.WATER || mat == Material.STATIONARY_WATER)
         {
-    		player.addPotionEffect(new PotionEffect(PotionEffectType.WITHER, 999 ,(int) Power));
+        	if(!BoatsEffect)
+        	{
+        		player.addPotionEffect(new PotionEffect(PotionEffectType.WITHER, 999 ,(int) Power));
+        	}
+        	else
+        	{
+        		if(!(player.getVehicle() instanceof EntityBoat))
+        		{
+            		player.addPotionEffect(new PotionEffect(PotionEffectType.WITHER, 999 ,(int) Power));
+        		}
+        	}
         }
         else
         {
